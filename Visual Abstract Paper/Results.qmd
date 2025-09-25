@@ -1,0 +1,135 @@
+---
+title: "Results"
+format: html
+bibliography: references.bib
+csl: british-journal-of-sports-medicine.csl
+---
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
+
+<font size="4"><strong>Results</strong></font>
+
+
+<details>
+  <summary>
+<font size="4"><strong>PRISMA Flow Diagram</strong></font>
+</summary>
+
+
+@Fig-1 shows the PRISMA systematic review flow chart. The initial systematic search identified 14,553 trials, with an additional 138 trials discovered through screening of previous meta-analyses and their respective reference lists. Following all exclusions, 270 exercise training RCTs were ultimately included, constituting an analysed sample of 15,827 (7632 controls) participants. The analysis involved 358 effect sizes, including 182 AET (89 walking, 28 cycling, 21 running and 44 '0ther' AET), 57 RT, 46 CT, 49 HIIT (of which 7 are SIT and 13 are AIT) and 24 IET (17 IHG, 4 IWS, 3 ILE).
+
+![PRISMA systematic review and meta-analysis flow chart. RCT, randomised controlled trial.](Figures\Figure1.jpg){#fig-1}
+{{< downloadthis Figures\Figure1.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures\Figure1.ppt label = "Download Figure in Powerpoint" >}}
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Risk of Bias Assessment</strong></font>
+</summary>
+
+
+The full TESTEX risk of bias assessment scoring can be found in <a href="Figures/Table S1.pdf" onclick="return ! window.open(this.href);">online supplemental table S1</a>. The TESTEX assessment demonstrated several consistent limitations throughout the exercise training literature. In particular, most trials failed to monitor control group activity or perform intention-to-treat analysis when appropriate. Study and training characteristics of all 270 trials are presented in <a href="Figures/Table S2.pdf" onclick="return ! window.open(this.href);">online supplemental table S2</a>. For sensitivity and comparative purposes, we also ran parallel primary analyses excluding all diseases (such as type 2 diabetes). Importantly, the inclusion/exclusion of such diseases does not meaningfully influence the overall results, instead often generating wider CIs following the omission of useful data (see <a href="Figures/Table S4.pdf" onclick="return ! window.open(this.href);">online supplemental table S4</a>). Heterogeneity results for each analysis can be found within the respective figures. Sensitivity analysis was performed for the primary outcomes using the in-built Comprehensive Meta-Analysis 'one-study removed' analysis method, which did not significantly influence any of the overall effect sizes.
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Pairwise Meta-Analyses</strong></font>
+</summary>
+
+
+@Fig-2 displays the overall SBP reductions following each exercise mode compared with the control group. There was a significant reduction in SBP following all modes of AET, with an overall reduction of 4.49 mm Hg (95% CI 3.5 to 5.5, Z=8.8, p~random~\<0.001), 2.85 mm Hg for walking, 6.88 mm Hg for cycling and 6.83 mm Hg for running. The post hoc Egger's test was significant for overall AET SBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S1</a>). There were significant reductions in SBP following RT by 4.55 mm Hg (95% CI 3.2 to 5.9, Z=6.6, p~random~\<0.001), and CT by 6.04 mm Hg (95% CI 3.2 to 8.9, Z=4.1, p~random~\<0.001). While there were significant SBP reductions following overall HIIT by 4.08 mm Hg (95% CI 2.6 to 5.5, Z=5.5, p~random~\<0.001) and SIT by 5.26 mm Hg, AIT did not significantly change. All IET modes produced significant reductions in SBP, with an overall reduction of 8.24 mm Hg (95% CI 6.5 to 10.0, Z=9.0, p~random~\<0.001), 7.10 mm Hg for IHG, 10.05 mm Hg ILE and 10.47 mm Hg for IWS.
+
+![Forest plot depicting overall effects of each primary and secondary exercise mode on systolic blood pressure (SBP).](Figures\figure2.jpg){#fig-2}
+
+{{< downloadthis Figures\Figure2.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures\Figure2.ppt label = "Download Figure in Powerpoint" >}}
+
+@Fig-3 displays the overall DBP reductions following each exercise mode compared with the control group. There was a significant reduction in DBP following all modes of AET, with an overall reduction of 2.53 mm Hg (95% CI 1.8 to 3.2, Z=7.3, p~random~\<0.001), 1.44 mm Hg for walking, 3.20 mm Hg for cycling and 5.67 mm Hg for running. The post hoc Egger's test was significant for overall AET DBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S2</a>). There were significant reductions in DBP following RT by 3.04 mm Hg (95% CI 2.2 to 3.9, Z=6.9, prandom\<0.001), and CT by 2.54 mm Hg (95% CI 1.1 to 4.0, Z=3.4, p~random~=0.001). While there were significant DBP reductions following overall HIIT by 2.50 mm Hg (95% CI 1.2 to 3.8, Z=3.8, p~random~\<0.001) and SIT by 3.29 mm Hg (95% CI 0.1 to 6.5, Z=2.0, p~random~=0.043), AIT did not significantly change. All IET modes produced significant reductions in DBP, with an overall reduction of 4.0 (95% CI 2.7 to 5.3, Z=6.0, p~random~\<0.001), 3.46 mm Hg for IHG, 4.23 ILE and 5.33 for IWS. The post hoc Egger's test was significant for overall IET DBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S3</a>).
+
+![Forest plot depicting overall effects of each primary and secondary exercise mode on diastolic blood pressure (DBP).](Figures\figure3.jpg){#fig-3}
+
+{{< downloadthis Figures\Figure3.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures\Figure3.ppt label = "Download Figure in Powerpoint" >}}
+
+@Fig-4 shows the SBP reductions for each exercise mode stratified by baseline blood pressure status. All analyses were statistically significant except the prehypertension group analysis for CT and HIIT. While all exercise modes demonstrated statistically significant reductions in SBP in normal blood pressure cohorts, all reductions were substantially larger in those with hypertension. Such baseline category stratified analysis was not feasible in DBP due to limited data.
+
+![Forest plot depicting overall effects of each primary exercise mode on systolic blood pressure (SBP) stratified via baseline blood pressure category.](Figures\figure4.jpg){#fig-4}
+
+{{< downloadthis Figures\Figure4.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures\Figure4.ppt label = "Download Figure in Powerpoint" >}}
+
+As shown in <a href="Figures/Table S3.pdf" onclick="return ! window.open(this.href);">online supplemental table S3</a>, there was a significant SBP moderator interaction for AET, with a lower training frequency associated with a greater blood pressure reduction (B=−1.0596, p=0.019). There was no significant moderator effect of intervention duration, training frequency or training compliance for any of the other exercise modes.
+</details>
+
+
+<details>
+  <summary>
+<font size="4"><strong>Network Meta-Analyses</strong></font>
+</summary>
+
+
+@Fig-5 depicts the network diagrams with corresponding Bayesian ranking panel plots, while @tbl-1, @tbl-2, <a href="Figures/Table S9-10.pdf" onclick="return ! window.open(this.href);">online supplemental tables S9 and S10</a> detail the comparative NMA findings for the primary and secondary exercise SBP and DBP mode analyses, respectively. Advanced analysis results, including the tables of rank probabilities with SUCRA (<a href="Figures/Table S5_6_11_12.pdf" onclick="return ! window.open(this.href);">online supplemental tables S5, S6, S11, S12</a>), inconsistency tests with node-splitting models (<a href="Figures/Table S7_8_13_14.pdf" onclick="return ! window.open(this.href);">online supplemental tables S7, S8, S13, S14</a>) and the deviance report plots (<a href="Figures/Figure S4_5_8_9.pdf" onclick="return ! window.open(this.href);">online supplemental figures S4, S5, S8, S9</a>) can be found in the supplementary file. There was no evidence of inconsistency in the primary or secondary NMA.
+
+![Network diagrams depicting the direct and indirect comparisons for the primary and secondary network meta-analyses and corresponding Bayesian ranking panel plots. AET, aerobic exercise training; AIT, aerobic interval training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; IHG, isometric handgrip; ILE, isometric leg extension; IWS, isometric wall squat; NMA, network meta-analysis; RT, dynamic resistance training; SBP, systolic blood pressure; SIT, sprint interval training; SUCRA; surface under the cumulative ranking curve.](Figures\figure5.jpg){#fig-5}
+
+{{< downloadthis Figures\Figure5.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures\Figure5.ppt label = "Download Figure in Powerpoint" >}}
+
+::: {.grid}
+
+::: {.g-col-2}
+:::
+
+
+::: {.g-col-8}
+
+|             | AET                 |	Control            | CT                  | HIIT                | IET                  |	RT                  |
+|:------------|:--------------------|:-------------------|:--------------------|:--------------------|:---------------------|:--------------------|
+| **AET**     | **AET**             |	4.37 (3.45, 5.28)  | −1.55 (−3.53, 0.43) | 0.1 (−1.84, 2.03)   | −3.86 (−6.54,–1.19)  |	−0.18 (−1.96, 1.6)  |
+| **Control** | −4.37 (−5.28,–3.45) |	**Control**        | −5.92 (−7.71,–4.11) | −4.27 (−6.02,–2.52) | −8.24 (−10.74,–5.72) |	−4.54 (−6.16,–2.93) |
+| **CT**      | 1.55 (−0.43, 3.53)  | 5.92 (4.11, 7.71)	 | **CT**	             | 1.65 (−0.85, 4.12)	 | −2.31 (−5.42, 0.77)  |	1.37 (−1, 3.72)     |
+| **HIIT**    | −0.1 (−2.03, 1.84)  |	4.27 (2.52, 6.02)	 | −1.65 (−4.12, 0.85) | **HIIT**            | −3.95 (−7.03,–0.93)  |	−0.28 (−2.64, 2.09) |
+| **IET**     |	3.86 (1.19, 6.54)	  | 8.24 (5.72, 10.74) | 2.31 (−0.77, 5.42)	 | 3.95 (0.93, 7.03)   | **IET**              | 3.68 (0.71, 6.66)   |
+| **RT**      | 0.18 (−1.6, 1.96) 	| 4.54 (2.93, 6.16)	 | −1.37 (−3.72, 1)	   | 0.28 (−2.09, 2.64)  | −3.68 (−6.66,–0.71)	| **RT**              |    |
+: Comparative network meta-analysis for the systolic blood pressure primary exercise modes. {#tbl-1}
+
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+
+* AET, aerobic exercise training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; RT, dynamic resistance training.
+	
+|                   | **AIT**             |	**Control**    | **CT**              | **Cycling**	           | **IHG**	            | **ILE**              | **IWS**	            | **Other aerobic**	  | **RT**	            | **Running**         |	**SIT**	       | **Walking**         |
+|:------------------|:--------------------|:---------------|:--------------------|:------------------------|:---------------------|:---------------------|:---------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+| **AIT**	          | **AIT**	            | 2.53 (−0.9, 5.99)  | −3.39 (−7.22, 0.49) | −4.36 (−8.51,–0.18) | −4.75 (−9.34,–0.18)	|−7.32 (−14.99, 0.29)	 | −8 (−14.74,–1.22)    |	−2.2 (−6.03, 1.65)  | −2.08 (−5.85, 1.7) 	 | −4.07 (−8.4, 0.26)	 | −2.28 (−8.1, 3.55)	 | −0.29 (−3.98, 3.39) |
+| **Control**	      | −2.53 (−5.99, 0.9)  |	**Control**        | −5.91 (−7.72,–4.1)	 | −6.88 (−9.22,–4.51) | −7.29 (−10.33,–4.21) |	−9.84 (−16.72,–3.03) | −10.52 (−16.3,–4.7)	| −4.73 (−6.55,–2.92) |	−4.61 (−6.23,–2.98)	 | −6.61 (−9.21,–3.97) | −4.81 (−9.49,–0.15) | −2.82 (−4.13,–1.5)  |
+| **CT**	          | 3.39 (−0.49, 7.22)	| 5.91 (4.1, 7.72)	 | **CT**              | −0.97 (−3.9, 1.99)	 | −1.37 (−4.91, 2.2)	  | −3.92 (−11.03, 3.13) | −4.6 (−10.66, 1.5)	  | 1.19 (−1.3, 3.65)	  | 1.31 (−1.06, 3.65)	 | −0.69 (−3.86, 2.51) | 1.11 (−3.93, 6.11)	 | 3.1 (0.86, 5.29)    |
+| **Cycling**	      | 4.36 (0.18, 8.51)	  | 6.88 (4.51, 9.22)	 | 0.97 (−1.99, 3.9)	 | **Cycling**         | −0.39 (−4.24, 3.46)	| −2.95 (−10.29, 4.28) | −3.65 (−9.92, 2.68)	| 2.15 (−0.85, 5.12)	| 2.28 (−0.57, 5.09)	 | 0.28 (−3.26, 3.82)	 | 2.08 (−3.19, 7.29)	 | 4.06 (1.36, 6.74)   |
+| **IHG**	          | 4.75 (0.18, 9.34)	  | 7.29 (4.21, 10.33) | 1.37 (−2.2, 4.91)	 | 0.39 (−3.46, 4.24)	 | **IHG**             	| −2.57 (−10.09, 4.96) | −3.24 (−9.83, 3.38)	| 2.56 (−1.04, 6.11)	| 2.67 (−0.78, 6.15)	 | 0.67 (−3.35, 4.72)	 | 2.49 (−3.15, 8.02)	 | 4.46 (1.13, 7.79)   |
+| **ILE**	          | 7.32 (−0.29, 14.99)	| 9.84 (3.03, 16.72) | 3.92 (−3.13, 11.03) | 2.95 (−4.28, 10.29) | 2.57 (−4.96, 10.09)	| **ILE**	             | −0.68 (−9.69, 8.3)	  | 5.11 (−1.96, 12.21)	| 5.21 (−1.77, 12.31) | 3.23 (−4.09, 10.58) | 5.04 (−3.19, 13.34) | 7.01 (0.04, 14.05)  |
+| **IWS**	          | 8 (1.22, 14.74)	    | 10.52 (4.7, 16.3)	 | 4.6 (−1.5, 10.66)	 | 3.65 (−2.68, 9.92)	 | 3.24 (−3.38, 9.83)	  | 0.68 (−8.3, 9.69)	   | **IWS**	            | 5.79 (−0.33, 11.87)	| 5.9 (−0.13, 11.96) | 3.92 (−2.5, 10.31)	 | 5.71 (−1.71, 13.18) | 7.7 (1.69, 13.67)   |
+| **Other aerobic** |	2.2 (−1.65, 6.03)	  | 4.73 (2.92, 6.55)	 | −1.19 (−3.65, 1.3)	 | −2.15 (−5.12, 0.85) | −2.56 (−6.11, 1.04)	| −5.11 (−12.21, 1.96) | −5.79 (−11.87, 0.33) |	**Other aerobic**   |	0.12 (−2.23, 2.48)	 | −1.87 (−5.05, 1.32) | −0.08 (−5.08, 4.94) | 1.91 (−0.32, 4.16)   
+| **RT**	          | 2.08 (−1.7, 5.85)	  | 4.61 (2.98, 6.23)  | −1.31 (−3.65, 1.06) | −2.28 (−5.09, 0.57) | −2.67 (−6.15, 0.78)	| −5.21 (−12.31, 1.77) | −5.9 (−11.96, 0.13)	| −0.12 (−2.48, 2.23)	| **RT**         | −2 (−5, 1.03)	     | −0.19 (−5.16, 4.73) | 1.79 (−0.28, 3.84)  |
+| **Running**	      | 4.07 (−0.26, 8.4)   | 6.61 (3.97, 9.21)	 | 0.69 (−2.51, 3.86)	 | −0.28 (−3.82, 3.26) | −0.67 (−4.72, 3.35)	| −3.23 (−10.58, 4.09) | −3.92 (−10.31, 2.5)	| 1.87 (−1.32, 5.05)	| 2 (−1.03, 5)	   | **Running**	       | 1.79 (−3.6, 7.08)	 | 3.79 (0.83, 6.72)   |
+| **SIT**	          | 2.28 (−3.55, 8.1)	  | 4.81 (0.15, 9.49)	 | −1.11 (−6.11, 3.93) | −2.08 (−7.29, 3.19) | −2.49 (−8.02, 3.15)	| −5.04 (−13.34, 3.19) | −5.71 (−13.18, 1.71)	| 0.08 (−4.94, 5.08)	| 0.19 (−4.73, 5.16)	 | −1.79 (−7.08, 3.6)	 | **SIT**             | 1.98 (−2.84, 6.83)  |
+| **Walking**	      | 0.29 (−3.39, 3.98)  | 2.82 (1.5, 4.13)	 | −3.1 (−5.29,–0.86)	 | −4.06 (−6.74,–1.36) | −4.46 (−7.79,–1.13)	| −7.01 (−14.05,–0.04) | −7.7 (−13.67,–1.69)	| −1.91 (−4.16, 0.32)	| −1.79 (−3.84, 0.28)	 | −3.79 (−6.72,–0.83) | −1.98 (−6.83, 2.84) | **Walking**          |
+
+: Comparative network meta-analysis for the systolic blood pressure secondary exercise modes. {#tbl-2}
+
+* AIT, aerobic interval training; CT, combined training; IHG, isometric handgrip; ILE, isometric leg extension; IWS, isometric wall squat; RT, dynamic resistance training; SIT, sSprint interval training.
+
+The primary exercise mode SBP NMA included 305 two-arm studies, 24 multiarm trials and 11 direct comparisons. As seen in @tbl-1 and the Bayesian treatment ranking (@fig-5 and <a href="Figures/Table S5.pdf" onclick="return ! window.open(this.href);">Table S5</a>), the order of effectiveness based on SUCRA values were IET (SUCRA: 98.3%), CT (75.7%), RT (46.1%), AET (40.53%) and HIIT (39.44%). Comparatively, IET was significantly more effective at reducing SBP than AET (WMD: −3.86 mm Hg, 95% CI 1.19 to 6.54), HIIT (WMD: −3.95 mm Hg, 95% CI 0.93 to 7.03) and RT (WMD: −3.68 mm Hg, 95% CI 0.71 to 6.66). There were no other significant differences between primary exercise modes for SBP. In agreement with the pairwise meta-analysis, the NMA meta-regression demonstrated a significant moderator effect of baseline SBP across the exercise modes. Specifically, a single unit increase in mean baseline control group SBP increased the mean intervention change by 0.10 mm Hg (95% CI 0.05 to 0.15). A sensitivity analysis was run excluding a total of three trials with a residual deviance >2 (<a href="Figures/Figure S10-11.pdf" onclick="return ! window.open(this.href);">Figure S10</a>). The effect size of CT was lower in the sensitivity analysis, thereby lowering its place in the Bayesian rankings compared with the primary analysis.
+
+The secondary exercise mode SBP NMA included 282 two-arm studies, 21 multiarm trials and 21 direct comparisons. The order of effectiveness based on SUCRA values were IET IWS (90.4%), ILE (84.7%), IHG (73.1%), cycling (69.9%), running (66.1%), CT (57.6%), SIT (43.3%), other aerobic (40.1%), RT (38.2%), AIT (18.3%) and walking (17.4%). Comparatively, IWS, ILE, IHG, CT, cycling and running were all significantly more effective than walking. IWS, IHG and cycling were also significantly more effective than AIT. There were no other significant SBP differences between secondary exercise modes.
+
+The primary exercise mode DBP NMA included 296 two-arm studies, 24 multiarm trials and 11 direct comparisons. The order of effectiveness based on SUCRA values (Figure S6) were IET (89.0%), RT (67.6%), HIIT (51.5%), CT (46.7%) and AET (45.1%). Comparatively, there were no statistically significant differences between the primary exercise modes for DBP. In agreement with the pairwise meta-analysis, the NMA meta-regression demonstrated a significant moderator effect of baseline DBP across the exercise modes. Specifically, a single unit increase in mean baseline control group DBP increased the mean intervention change by 0.06 mm Hg (95% CI 0.01 to 0.12). A sensitivity analysis was run excluding a total of five trials with a residual deviance>2 (Figure S11). The effect size of CT improved while HIIT decreased in the sensitivity analysis, thereby increasing the place of CT and lowering HIIT in the Bayesian rankings compared with the primary analysis.
+
+The secondary exercise mode DBP NMA included 274 two-arm studies, 21 multiarm trials and 21 direct comparisons. The order of effectiveness based on SUCRA values (Figure S7) were running (91.3%), IWS (86.1%), IHG (57.1%), ILE (56.2%), cycling (54.3%), SIT (54.2%), RT (52.1%), AIT (48.1%), other aerobic (46.9%), CT (38.0%) and walking (14.7%). Comparatively, IWS, RT, running, cycling and other aerobic were all significantly more effective than walking. Running was also significantly more effective than CT, cycling, other aerobic and RT. There were no other significant DBP differences between secondary exercise modes.
+</details>
+
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>

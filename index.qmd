@@ -1,0 +1,55 @@
+---
+date: last-modified
+date-format: "MMMM D, YYYY"
+---
+
+
+
+::: {.hero-banner}
+::: {.hero-title}
+Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials
+:::
+
+::: {.hero-subtitle}
+Multiple abstracts available for different audiences with links to full text
+:::
+:::
+
+## Abstracts
+
+::: {.feature-grid}
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-pen-to-square"></i>
+:::
+::: {.feature-title}
+Technical Abstract Paper
+:::
+::: {.feature-description}
+The abstract as it was originally submitted to British Journal of Sports Medicine, linking to sections of the full text. Recommended for technical audiences.
+:::
+[View Technical Report](Technical%20Abstract%20Paper/Technical%20Abstract%20Paper.html){.btn-primary}
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-paint-brush"></i>
+:::
+::: {.feature-title}
+Visual Abstract Paper
+:::
+::: {.feature-description}
+A interactive infographic that summarises the research and visualises the key findings, while linking to the full text. Recommended for lay audiences.
+:::
+[View Visual Report](Visual%20Abstract%20Paper/Visual%20Abstract%20Paper.html){.btn-primary}
+:::
+
+:::
+
+
+
+
+---
+
+*Use the sidebar navigation to access the homepage and abstracts.*

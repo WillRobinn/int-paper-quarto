@@ -1,0 +1,19 @@
+---
+title: "Study Background"
+format: html
+bibliography: references.bib
+csl: british-journal-of-sports-medicine.csl
+---
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
+
+  Hypertension is a leading modifiable risk factor for morbidity and mortality^[@ref1; @ref2; @ref3]^. While differences in diagnostic cut-off points exist in guidelines^[@ref4; @ref5]^, blood pressure above optimal levels is lineally associated with an escalated risk of cardiovascular disease[@ref6]. With the prevalence of hypertension increasing^[@ref7]^, particularly in low- and middle-income countries^[@ref8]^, research into effective antihypertensive interventions remains critical. Medical therapy is an effective means of reducing blood pressure^[@ref9]^; however, poor adherence^[@ref10; @ref11; @ref12]^, adverse side effects^[@ref13]^ and economic expenditure^[@ref14]^ are important limitations. As such, non-pharmacological approaches are favoured^[@ref15; @ref16]^. Exercise elicits conclusive cardiovascular health benefits and improves long-term survival, with a longitudinal association between physical activity and reduced mortality well documented^[@ref17; @ref18; @ref19; @ref20]^.
+  
+  Hypertension is a leading modifiable risk factor for morbidity and mortality^[@ref1; @ref2; @ref3]^. While differences in diagnostic cut-off points exist in guidelines^[@ref4; @ref5]^, blood pressure above optimal levels is lineally associated with an escalated risk of cardiovascular disease^[@ref6]^. With the prevalence of hypertension increasing^[@ref7]^, particularly in low- and middle-income countries^[@ref8]^, research into effective antihypertensive interventions remains critical. Medical therapy is an effective means of reducing blood pressure^[@ref9]^; however, poor adherence^[@ref10; @ref11; @ref12]^, adverse side effects^[@ref13]^ and economic expenditure^[@ref14]^ are important limitations. As such, non-pharmacological approaches are favoured^[@ref15; @ref16]^. Exercise elicits conclusive cardiovascular health benefits and improves long-term survival, with a longitudinal association between physical activity and reduced mortality well documented^[@ref17; @ref18; @ref19; @ref20]^.
+  
+  Previous large-scale analyses have reported significant systolic and diastolic blood pressure (SBP and DBP) reductions from varying exercise modes^[@ref21; @ref22; @ref23; @ref24; @ref25; @ref26]^. Based on previous work, traditional aerobic exercise training (AET) remains the primarily recommended exercise approach for the management of resting blood pressure^[@ref4; @ref5]^. However, the current exercise guideline recommendations are largely based on older data, with recent investigations demonstrating a growing interest in more novel exercise modes, such as highintensity interval training (HIIT)^[@ref27]^ and isometric exercise training (IET)^[@ref24]^, as well as a plethora of new data on the role of independent dynamic resistance training (RT)^[@ref28]^ and combined RT and AET^[@ref29; @ref30]^. As a consequence, the optimal exercise intervention for the management of resting blood pressure is unknown, with existing guidelines probably outdated.
+  Therefore, this work aimed to provide an updated largescale systematic review and network meta-analysis (NMA) of randomised controlled trials (RCTs) on the effects of exercise training on resting SBP and DBP. We aimed to perform independent pairwise meta-analyses for each exercise mode with subsequent comparative [Bayesian NMAs (+)]{#bayesNMA}. We also aimed to perform separate baseline blood pressure-stratified analyses to determine the effects of each exercise mode in those of differing blood pressure classifications.
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
+
+## References

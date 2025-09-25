@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  
+  navbar:
+    left:
+      - text: "Reports"
+        menu:
+          - text: "Technical Abstract"
+            href: Technical%20Abstract%20Paper/Abstract%20Paper.html
+          - text: "Visual Abstract"
+            href: Visual%20Abstract%20Paper/Visual%20Abstract%20Paper.html
+    
+    tools:
+      - icon: github
+        href: https://github.com/yourusername/your-repo
+        text: "GitHub"
+
+  sidebar:
+    - title: "Navigation"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Home"
+          href: index.qmd
+        - text: "Technical Abstract Paper"
+          href: Technical%20Abstract%20Paper/Abstract%20Paper.html
+        - text: "Visual Abstract Paper"
+          href: Visual%20Abstract%20Paper/Visual%20Abstract%20Paper.html
+
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-expand: 2
+    number-sections: false
+    code-fold: true
+    code-summary: "Show code"
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+execute:
+  freeze: auto

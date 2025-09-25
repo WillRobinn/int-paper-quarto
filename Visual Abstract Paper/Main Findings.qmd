@@ -1,0 +1,11 @@
+---
+title: "Main Findings"
+format: html
+editor: visual
+---
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
+
+<font size="4"><strong><a href="Methodology.html">Methodology</a></font></strong>
+
+<font size="4"><strong><a href="Results.html">Results</a></font></strong>

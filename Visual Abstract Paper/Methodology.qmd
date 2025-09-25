@@ -1,0 +1,73 @@
+---
+title: "Methodology"
+format: html
+bibliography: references.bib
+csl: british-journal-of-sports-medicine.csl
+---
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
+
+<font size="6"><strong>Methodology</strong></font>
+
+
+<details>
+  <summary>
+<font size="4"><strong>Search Strategy</strong></font>
+</summary>
+
+
+This review was performed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines^[@ref31,@ref32]^, with PROSPERO registration (CRD42022326565). A comprehensive electronic database search strategy was constructed to identify RCTs reporting the effects of an exercise training intervention on resting blood pressure. The systematic search was performed in PubMed (Medline), the Cochrane library and Web of Science using a combination of relevant medical subject heading (MeSH) terms and text words including exercise, physical activity, blood pressure and hypertension, with the Boolean search terms 'OR' and 'AND' (<a href="bjsports-2023-October-57-20-1317-inline-supplementary-material-1.pdf" onclick="return ! window.open(this.href);">online supplemental appendix A</a>). No search filters or limits were applied. Separately, the reference lists of previous systematic reviews and meta-analyses were hand searched for additional reports not identified in the initial search. Trials published between 1990 and February 2023 were considered eligible.
+
+<font size="4"><strong>Full Supplemental Material</strong></font>
+
+{{< downloadthis bjsports-2023-October-57-20-1317-inline-supplementary-material-1.pdf label = "Original Paper Supplemental Material" >}}
+
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Screening and Study Eligibility</strong></font>
+</summary>
+
+
+Following the systematic search, two authors (AD and OA) independently screened all papers for eligibility. Studies were initially screened by title and abstract, and subsequently by full text if they met the predetermined inclusion criteria. Any inconsistency and disagreements were discussed by the researchers and a consensus was reached with the opinion of a fourth researcher (JE), if necessary. Following study recruitment, the respective data of all included studies were extracted via Microsoft Excel. A third reviewer (MG) independently assessed and verified all data extraction. Baseline and postintervention mean (SD) SBP and DBP data were initially extracted owing to the common absence of change data being reported in exercise training and blood pressure RCTs. As required for NMAs, we acquired mean change from the baseline and postintervention values. Following the Cochrane Handbook for Systematic Reviews of Interventions (Chapter 6)^[@ref33]^, we aimed to calculate SD change from standard errors, 95% CIs, p values or t statistics where available. When studies did not report any such data, SD change was calculated using a correlation coefficient of 0.8 as previously tested and validated in a similar dataset^[@ref22]^.
+
+Following the participants, interventions, comparators, outcomes (PICO) framework, the population included adult humans with no predetermined limitations on health or disease state in representation of the general population, which ensured we did not unnecessarily exclude any potentially valuable data. Considering the intervention, comparator and outcome of this work, trials were determined eligible if they were appropriately randomised, and reported pre- and postintervention SBP and/or DBP in both the exercise and non-intervention control group. To minimise confounding, any considerable dietary, counselling or exercise influence in the non-intervention control group resulted in exclusion. Similarly, studies containing concurrent co-interventions to exercise (such as supplementation or medication changes) were excluded. Only trials published in peer-reviewed journals were considered and thus dissertation theses were not eligible. Studies that might appear eligible but were excluded are available on request from the corresponding author (with the reason for exclusion).
+
+For consistency, the exercise protocol/intensity of each included paper was screened against the Exercise Prescription in Everyday Practice and Rehabilitative Training (EXPERT) tool^[@ref34]^ to be defined and categorised. All protocols were then stratified into one of the following primary exercise mode categories: 'aerobic exercise training' (AET), 'dynamic resistance training' (RT), 'combined training' (CT), 'high-intensity interval training' (HIIT) and 'isometric exercise training' (IET). Each category was then further explored for appropriate subgroups, allowing for the analysis of walking, running and cycling as AET subgroups, sprint interval training (SIT) and aerobic interval training (AIT) as HIIT subgroups, and isometric handgrip (IHG), isometric leg extension (ILE) and isometric wall squat (IWS) as IET subgroups. IET programmes commonly employ protocols of 4×2min contractions, separated by 1--4min rest intervals, performed three times a week. IHG is often prescribed at 30% maximum voluntary contraction, while IWS and ILE protocols are typically performed at 95% of the peak heart rate achieved during a laboratory-based maximal incremental isometric exercise test. The IWS may also be prescribed using a self-selected wall squat, with a knee joint angle that would elicit a rate of perceived exertion (RPE) of 3.5--4.5/10 for bout 1; RPE 5--6/10 for bout 2; RPE of 6.5--7.5/10 for bout 3 and RPE of 8--9/10 for bout 4. This review defines HIIT as 'episodic short bouts of high-intensity exercise separated by short periods of recovery at a lower intensity'^[@ref35]^. As subgroups of HIIT, SIT was defined as an 'all-out' maximal, low-volume protocol, whereas aerobic interval training AIT consisted of 4×4min protocols of a lower intensity.
+
+For baseline blood pressure stratified analyses, all included studies were categorised as normotension, prehypertension or hypertension based on the baseline SBP and DBP of both the intervention and control group. In accordance with the European Society of Hypertension/European Society of Cardiology (ESC/ESH) guidelines^[@ref5]^, the SBP and DBP status subgroups were categorised as normotension, prehypertension or hypertension, with values equal to \<130/85mm Hg, 130--139/85--89 mm Hg or \>140/90mm Hg, respectively. Studies in which the intervention and control groups differed in baseline blood pressure categories were excluded from this analysis.
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Study quality</strong></font>
+</summary>
+
+
+Risk of bias and methodological rigour were evaluated using the TESTEX scale^[@ref36]^. TESTEX is a 15-point (12 item) tool designed for the assessment of exercise training trials. As previously demonstrated in such large-scale reviews^[@ref22]^, a random 10% sample of trials from each exercise mode was selected for risk of bias assessment. Two reviewers (AD and JE) independently scored all selected articles. Any disputes in quality analyses were resolved by consensus.
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Statistical analysis</strong></font>
+</summary>
+
+
+The pairwise meta-analyses were performed using Comprehensive Meta-Analysis, version 3 (Biostat, Englewood, New Jersey, USA). A [pooled analysis (+)]{#pool} was separately performed for each of the primary (AET, RT, CT, HIIT, IET) and secondary (walking, cycling, running, SIT, AIT, IHG, IWS and ILE) exercise mode groups to establish the weighted mean difference (WMD) in SBP and DBP between the exercise group and the non-intervention controls. Parallel pooled analyses (+) were also performed in only those studies free from any cardiovascular or other disease. Each primary exercise mode group was then further dichotomised by categorisation of baseline blood pressure and separately analysed. Meta-regression analyses were performed to ascertain if any study-level moderator variables influenced blood pressure change and explain any of the observed interstudy variance in outcomes. The selected moderators to be run independently were intervention duration (in weeks), training frequency (sessions per week) and training compliance (mean percentage of prescribed sessions attended). Statistical heterogeneity was always tested alongside the pooled analysis(+) and reported as the I² statistic. A significance threshold of 40% was applied to the I² statistic^[@ref37]^. Once past this threshold, post hoc tests such as Egger's regression test (1997) was systematically planned to assess the presence of funnel plot asymmetry to account for potential publication bias^[@ref38]^. The selection of fixed or random effects approaches were dependent on the presence of heterogeneity, with random effects analysis applied when interstudy variability was confirmed through significant heterogeneity. The results of the pooled analysis(+) were considered significant with a p value of \<0.05 and a Z-value of \>2.
+
+To facilitate the comparison of exercise modes that have not been directly compared in RCT's and enhance the precision of comparative effect estimates (via the inclusion of both direct and indirect data), we performed NMAs. Bayesian NMAs (+) were performed via the MetaInsight tool (version V4.0.2)^[@ref39]^. MetaInsight is an interactive web-based tool powered by Rshiny which uses R packages 'gemtc' and 'BUGSnet' for [Bayesian (+)]{#bayes} statistical calculations. This analysis runs Markov chain Monte Carlo simulations with four chains and a total of 25000 iterations ([burn-in period of 5000 (+)]{#burn}). Convergence of the model was tested via the Gelman-Rubin convergence assessment^[@ref40]^. Based on pre-established interstudy heterogeneity, random-effects analyses of WMD were selected. Inconsistency between direct and indirect effect size comparisons were assessed via node-splitting models^[@ref41]^ with corresponding Bayesian (+) P values. Residual deviance plots for the NMA with consistency models and unrelated mean effect inconsistency models were produced. For any studies with large residual deviance (\>2), further exploration was planned and exclusion in a sensitivity analysis. To assess the moderator effect of baseline SBP and DBP, Bayesian NMA (+) metaregression analyses were separately performed using WinBUGS version 1.4^[@ref42]^.
+
+Separate NMAs were run by primary exercise mode categorisation (AET, RT, CT, HIIT and IET), and then via secondary exercise subgroup categorisation (walking, running, cycling, RT, CT, SIT, AIT, IHG, ILE, IWS). As there was no pre-established secondary exercise mode categorisation for RT and CT, these were included in both analyses. Network diagrams were produced to visualise the direct and indirect comparisons across different exercise modes. NMA data are reported as mean effect with 95% credible intervals. Ranking probability analyses were performed, with surface under the cumulative ranking curve (SUCRA) values generated for each exercise mode and submode, and displayed as litmus rank-o-gram SUCRA plots^[@ref43]^.
+</details>
+
+<details>
+  <summary>
+<font size="4"><strong>Equity, Diversity, and Inclusion Statement</strong></font>
+</summary>
+
+
+Our study included all identified randomised controlled trials of exercise training for the management of blood pressure, inclusive of all genders, race/ethnicities and socioeconomic levels. Our author team consisted of two women and five men from different disciplines (medical research, sport and exercise science, population health), including three authors considered junior scholars. Our research methods were not altered based on regional, educational or socioeconomic differences.
+</details>
+
+<a href="Visual Abstract Paper.html">←Back to abstract</a>
