@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Home"
@@ -9,7 +10,7 @@ website:
       - text: "Reports"
         menu:
           - text: "Technical Abstract"
-            href: Technical%20Abstract%20Paper/Abstract%20Paper.html
+            href: Technical%20Abstract%20Paper/Technical%20Abstract%20Paper.html
           - text: "Visual Abstract"
             href: Visual%20Abstract%20Paper/Visual%20Abstract%20Paper.html
     
@@ -26,7 +27,7 @@ website:
         - text: "Home"
           href: index.qmd
         - text: "Technical Abstract Paper"
-          href: Technical%20Abstract%20Paper/Abstract%20Paper.html
+          href: Technical%20Abstract%20Paper/Technical%20Abstract%20Paper.html
         - text: "Visual Abstract Paper"
           href: Visual%20Abstract%20Paper/Visual%20Abstract%20Paper.html
 
