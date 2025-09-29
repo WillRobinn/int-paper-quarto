@@ -39,16 +39,16 @@ library(tippy)
 ```
 
 
-<img src="Visual-Abstract_2_70.jpg" usemap="#image-map">
+<img src="Visual-Abstract.jpg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="_self" alt="Study Background" title="Study Background" href="background.html" coords="2,83,256,318" shape="rect">
-    <area target="_self" alt="Discussion and Conclusions" title="Discussion and Conclusions" href="discussion.html" coords="662,211,896,411" shape="rect">
+    <area target="_self" alt="Study Background" title="Study Background" href="Background.html" coords="2,83,256,318" shape="rect">
+    <area target="_self" alt="Discussion and Conclusions" title="Discussion and Conclusions" href="Discussion.html" coords="662,211,896,411" shape="rect">
     <area target="_blank" alt="" title="" href="https://x.com/EdwardsJ361" coords="896,446,798,421" shape="rect">
     <area target="_blank" alt="" title="" href="https://x.com/JODriscoll9" coords="896,471,799,449" shape="rect">
     <area target="_self" alt="" title="" href="https://bjsm.bmj.com/content/57/20/1317#ref-6" coords="271,420,661,472" shape="rect">
-    <area target="_self" alt="Main Findings" title="Main Findings" href="Main Findings.html" coords="1,323,259,486" shape="rect">
-    <area target="_self" alt="Main Findings" title="Main Findings" href="Main Findings.html" coords="270,412,657,86" shape="rect">
+    <area target="_self" alt="Main Findings" title="Main Findings" href="Mai%20Findings.html" coords="1,323,259,486" shape="rect">
+    <area target="_self" alt="Main Findings" title="Main Findings" href="Mai%20Findings.html" coords="270,412,657,86" shape="rect">
 </map>
 
 ## Introduction
