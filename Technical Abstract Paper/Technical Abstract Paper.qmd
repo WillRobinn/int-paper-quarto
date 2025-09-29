@@ -156,7 +156,7 @@ Our study included all identified randomised controlled trials of exercise train
 
 @Fig-1 shows the PRISMA systematic review flow chart. The initial systematic search identified 14,553 trials, with an additional 138 trials discovered through screening of previous meta-analyses and their respective reference lists. Following all exclusions, 270 exercise training RCTs were ultimately included, constituting an analysed sample of 15,827 (7632 controls) participants. The analysis involved 358 effect sizes, including 182 AET (89 walking, 28 cycling, 21 running and 44 '0ther' AET), 57 RT, 46 CT, 49 HIIT (of which 7 are SIT and 13 are AIT) and 24 IET (17 IHG, 4 IWS, 3 ILE).
 
-![PRISMA systematic review and meta-analysis flow chart. RCT, randomised controlled trial.](Figures/Figure1.jpg){#fig-1}
+![PRISMA systematic review and meta-analysis flow chart. RCT, randomised controlled trial.](Figures/figure1.jpg){#fig-1}
 {{< downloadthis Figures/figure1.jpg label = "Download Figure as Image" >}}
 {{< downloadthis Figures/figure1.ppt label = "Download Figure in Powerpoint" >}}
 </details>
