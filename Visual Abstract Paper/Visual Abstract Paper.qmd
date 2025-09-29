@@ -126,8 +126,8 @@ Our study included all identified randomised controlled trials of exercise train
 @Fig-1 shows the PRISMA systematic review flow chart. The initial systematic search identified 14,553 trials, with an additional 138 trials discovered through screening of previous meta-analyses and their respective reference lists. Following all exclusions, 270 exercise training RCTs were ultimately included, constituting an analysed sample of 15,827 (7632 controls) participants. The analysis involved 358 effect sizes, including 182 AET (89 walking, 28 cycling, 21 running and 44 '0ther' AET), 57 RT, 46 CT, 49 HIIT (of which 7 are SIT and 13 are AIT) and 24 IET (17 IHG, 4 IWS, 3 ILE).
 
 ![PRISMA systematic review and meta-analysis flow chart. RCT, randomised controlled trial.](Figures/figure1.jpg){#fig-1}
-{{< downloadthis Figures\figure1.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure1.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure1.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure1.ppt label = "Download Figure in Powerpoint" >}}
 
 <font size="4"><strong>Risk of Bias Assessment</strong></font>
 
@@ -142,24 +142,24 @@ The full TESTEX risk of bias assessment scoring can be found in <a href="Figures
 
 @Fig-2 displays the overall SBP reductions following each exercise mode compared with the control group. There was a significant reduction in SBP following all modes of AET, with an overall reduction of 4.49 mm Hg (95% CI 3.5 to 5.5, Z=8.8, p~random~\<0.001), 2.85 mm Hg for walking, 6.88 mm Hg for cycling and 6.83 mm Hg for running. The post hoc Egger's test was significant for overall AET SBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S1</a>). There were significant reductions in SBP following RT by 4.55 mm Hg (95% CI 3.2 to 5.9, Z=6.6, p~random~\<0.001), and CT by 6.04 mm Hg (95% CI 3.2 to 8.9, Z=4.1, p~random~\<0.001). While there were significant SBP reductions following overall HIIT by 4.08 mm Hg (95% CI 2.6 to 5.5, Z=5.5, p~random~\<0.001) and SIT by 5.26 mm Hg, AIT did not significantly change. All IET modes produced significant reductions in SBP, with an overall reduction of 8.24 mm Hg (95% CI 6.5 to 10.0, Z=9.0, p~random~\<0.001), 7.10 mm Hg for IHG, 10.05 mm Hg ILE and 10.47 mm Hg for IWS.
 
-![Forest plot depicting overall effects of each primary and secondary exercise mode on systolic blood pressure (SBP).](Figures\figure2.jpg){#fig-2}
+![Forest plot depicting overall effects of each primary and secondary exercise mode on systolic blood pressure (SBP).](Figures/figure2.jpg){#fig-2}
 
-{{< downloadthis Figures\figure2.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure2.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure2.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure2.ppt label = "Download Figure in Powerpoint" >}}
 
 @Fig-3 displays the overall DBP reductions following each exercise mode compared with the control group. There was a significant reduction in DBP following all modes of AET, with an overall reduction of 2.53 mm Hg (95% CI 1.8 to 3.2, Z=7.3, p~random~\<0.001), 1.44 mm Hg for walking, 3.20 mm Hg for cycling and 5.67 mm Hg for running. The post hoc Egger's test was significant for overall AET DBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S2</a>). There were significant reductions in DBP following RT by 3.04 mm Hg (95% CI 2.2 to 3.9, Z=6.9, prandom\<0.001), and CT by 2.54 mm Hg (95% CI 1.1 to 4.0, Z=3.4, p~random~=0.001). While there were significant DBP reductions following overall HIIT by 2.50 mm Hg (95% CI 1.2 to 3.8, Z=3.8, p~random~\<0.001) and SIT by 3.29 mm Hg (95% CI 0.1 to 6.5, Z=2.0, p~random~=0.043), AIT did not significantly change. All IET modes produced significant reductions in DBP, with an overall reduction of 4.0 (95% CI 2.7 to 5.3, Z=6.0, p~random~\<0.001), 3.46 mm Hg for IHG, 4.23 ILE and 5.33 for IWS. The post hoc Egger's test was significant for overall IET DBP publication bias (<a href="Figures/Figure S1-3.pdf" onclick="return ! window.open(this.href);">online supplemental figure S3</a>).
 
-![Forest plot depicting overall effects of each primary and secondary exercise mode on diastolic blood pressure (DBP).](Figures\figure3.jpg){#fig-3}
+![Forest plot depicting overall effects of each primary and secondary exercise mode on diastolic blood pressure (DBP).](Figures/figure3.jpg){#fig-3}
 
-{{< downloadthis Figures\figure3.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure3.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure3.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure3.ppt label = "Download Figure in Powerpoint" >}}
 
 @Fig-4 shows the SBP reductions for each exercise mode stratified by baseline blood pressure status. All analyses were statistically significant except the prehypertension group analysis for CT and HIIT. While all exercise modes demonstrated statistically significant reductions in SBP in normal blood pressure cohorts, all reductions were substantially larger in those with hypertension. Such baseline category stratified analysis was not feasible in DBP due to limited data.
 
-![Forest plot depicting overall effects of each primary exercise mode on systolic blood pressure (SBP) stratified via baseline blood pressure category.](Figures\figure4.jpg){#fig-4}
+![Forest plot depicting overall effects of each primary exercise mode on systolic blood pressure (SBP) stratified via baseline blood pressure category.](Figures/figure4.jpg){#fig-4}
 
-{{< downloadthis Figures\figure4.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure4.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure4.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure4.ppt label = "Download Figure in Powerpoint" >}}
 
 As shown in <a href="Figures/Table S3.pdf" onclick="return ! window.open(this.href);">online supplemental table S3</a>, there was a significant SBP moderator interaction for AET, with a lower training frequency associated with a greater blood pressure reduction (B=−1.0596, p=0.019). There was no significant moderator effect of intervention duration, training frequency or training compliance for any of the other exercise modes.
 
@@ -170,10 +170,10 @@ As shown in <a href="Figures/Table S3.pdf" onclick="return ! window.open(this.hr
 
 @Fig-5 depicts the network diagrams with corresponding Bayesian ranking panel plots, while @tbl-1, @tbl-2, <a href="Figures/Table S9-10.pdf" onclick="return ! window.open(this.href);">online supplemental tables S9 and S10</a> detail the comparative NMA findings for the primary and secondary exercise SBP and DBP mode analyses, respectively. Advanced analysis results, including the tables of rank probabilities with SUCRA (<a href="Figures/Table S5_6_11_12.pdf" onclick="return ! window.open(this.href);">online supplemental tables S5, S6, S11, S12</a>), inconsistency tests with node-splitting models (<a href="Figures/Table S7_8_13_14.pdf" onclick="return ! window.open(this.href);">online supplemental tables S7, S8, S13, S14</a>) and the deviance report plots (<a href="Figures/Figure S4_5_8_9.pdf" onclick="return ! window.open(this.href);">online supplemental figures S4, S5, S8, S9</a>) can be found in the supplementary file. There was no evidence of inconsistency in the primary or secondary NMA.
 
-![Network diagrams depicting the direct and indirect comparisons for the primary and secondary network meta-analyses and corresponding Bayesian ranking panel plots. AET, aerobic exercise training; AIT, aerobic interval training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; IHG, isometric handgrip; ILE, isometric leg extension; IWS, isometric wall squat; NMA, network meta-analysis; RT, dynamic resistance training; SBP, systolic blood pressure; SIT, sprint interval training; SUCRA; surface under the cumulative ranking curve.](Figures\figure5.jpg){#fig-5}
+![Network diagrams depicting the direct and indirect comparisons for the primary and secondary network meta-analyses and corresponding Bayesian ranking panel plots. AET, aerobic exercise training; AIT, aerobic interval training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; IHG, isometric handgrip; ILE, isometric leg extension; IWS, isometric wall squat; NMA, network meta-analysis; RT, dynamic resistance training; SBP, systolic blood pressure; SIT, sprint interval training; SUCRA; surface under the cumulative ranking curve.](Figures/figure5.jpg){#fig-5}
 
-{{< downloadthis Figures\figure5.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure5.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure5.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure5.ppt label = "Download Figure in Powerpoint" >}}
 
 ::: {.grid}
 
@@ -241,10 +241,10 @@ The secondary exercise mode DBP NMA included 274 two-arm studies, 21 multiarm tr
 
 In this systematic review and NMA, we analysed all relevant RCT data, involving 270 trials and 15827 participants, to establish optimal exercise prescription practices in the management of resting arterial blood pressure (see @fig-6). Pairwise analyses demonstrated a significant reduction in resting SBP and DBP following all exercise modes except AIT. All modes demonstrated substantially larger reductions in hypertensive cohorts than those with normal baseline blood pressure. As shown by the primary NMA, the rank order of effectiveness based on SUCRA values for SBP were IET ranked highest followed by CT, RT, AET and HIIT. IET was also highest ranked in the DBP NMA, followed by RT, HIIT, CT and AET. NMA of the secondary exercise submodes for SBP found IWS to be the most effective, followed by ILE, IHG, cycling, running, CT, SIT, other aerobic, RT, AIT and finally, walking. The DBP secondary NMA found running to be the most effective submode, followed by IWS, IHG, ILE, cycling, SIT, RT, AIT, other aerobic, CT and walking.
 
-![Central illustration. AET, aerobic exercise training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; RT, dynamic resistance training.](Figures\figure6.jpg){#fig-6}
+![Central illustration. AET, aerobic exercise training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; RT, dynamic resistance training.](Figures/figure6.jpg){#fig-6}
 
-{{< downloadthis Figures\figure6.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures\figure6.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure6.jpg label = "Download Figure as Image" >}}
+{{< downloadthis Figures/figure6.ppt label = "Download Figure in Powerpoint" >}}
 
 To our knowledge, only two previous large-scale meta-analyses of similar proportion have been performed.^[@ref21,@ref22]^ However, the present study is the first to incorporate HIIT as a novel exercise mode, as well as provide advanced submode analyses of walking, cycling, running, SIT, AIT, IHG, ILE and IWS for the purpose of exercise prescription optimisation. Cornelissen *et al*^[@ref21]^ similarly reported IET to be the most effective exercise mode, but largely differed in magnitude for all other mode analyses, which is probably attributable to the substantial number of newer trials included in the present analysis. This is supported by the more recent Naci *et al*^[@ref22]^ NMA, which did not assess DBP, but showed more homogeneous AET, RT and CT SBP changes than in the present work. Given the emphasis placed on the Cornelissen and Smart21 study in both the ESC/ESH5 and American College of Cardiology/American Heart Association (ACC/AHA)4 blood pressure management guidelines, the findings of the present study, combined with that of Naci *et al,*^[@ref22]^ suggest the need for an exercise recommendation guideline update.
 
