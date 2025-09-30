@@ -39,7 +39,7 @@ library(tippy)
 ```
 
 
-<img src="Visual-Abstract.jpg" usemap="#image-map">
+<img src="Visual-Abstract_2_70.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="_self" alt="Study Background" title="Study Background" href="Background.html" coords="2,83,256,318" shape="rect">
