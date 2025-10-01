@@ -173,6 +173,13 @@
   text-decoration: underline;
 }
 
+/* Fix for paragraph text appearing as headers in pages */
+#quarto-content > main > p:not(.hero-title):not(.hero-subtitle):not(.feature-title):not(.feature-description) {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
 @media (max-width: 768px) {
   .hero-banner {
     margin: 1rem -1rem;
@@ -191,18 +198,4 @@
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-}
-
-/* Ensure paragraphs have normal text size */
-.quarto-title-block ~ p,
-main p,
-article p {
-  font-size: 1rem;
-  font-weight: normal;
-  line-height: 1.6;
-}
-
-/* Prevent any unintended heading-like styling */
-p {
-  font-size: inherit;
 }
