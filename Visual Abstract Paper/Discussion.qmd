@@ -19,8 +19,8 @@ In this systematic review and NMA, we analysed all relevant RCT data, involving 
 
 ![Central illustration. AET, aerobic exercise training; CT, combined training; HIIT, high-intensity interval training; IET, isometric exercise training; RT, dynamic resistance training.](Figures/figure6.jpg){#fig-6}
 
-{{< downloadthis Figures/figure6.jpg label = "Download Figure as Image" >}}
-{{< downloadthis Figures/figure6.ppt label = "Download Figure in Powerpoint" >}}
+{{< downloadthis Figures/figure6.jpg label = "Download Figure as Image" dname="figure6">}}
+{{< downloadthis Figures/figure6.ppt label = "Download Figure in Powerpoint" dname="figure6">}}
 
 To our knowledge, only two previous large-scale meta-analyses of similar proportion have been performed.^[@ref21,@ref22]^ However, the present study is the first to incorporate HIIT as a novel exercise mode, as well as provide advanced submode analyses of walking, cycling, running, SIT, AIT, IHG, ILE and IWS for the purpose of exercise prescription optimisation. Cornelissen *et al*^[@ref21]^ similarly reported IET to be the most effective exercise mode, but largely differed in magnitude for all other mode analyses, which is probably attributable to the substantial number of newer trials included in the present analysis. This is supported by the more recent Naci *et al*^[@ref22]^ NMA, which did not assess DBP, but showed more homogeneous AET, RT and CT SBP changes than in the present work. Given the emphasis placed on the Cornelissen and Smart21 study in both the ESC/ESH5 and American College of Cardiology/American Heart Association (ACC/AHA)4 blood pressure management guidelines, the findings of the present study, combined with that of Naci *et al,*^[@ref22]^ suggest the need for an exercise recommendation guideline update.
 

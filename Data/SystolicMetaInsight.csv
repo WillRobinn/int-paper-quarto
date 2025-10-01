@@ -1,0 +1,688 @@
+StudyID,Study,T,N,Mean,SD
+1,"Abdelaal & Mohamad, 2015",2,20,-5,1.43
+1,"Abdelaal & Mohamad, 2015",1,19,0.6,1.74
+1,"Abdelaal & Mohamad, 2015",3,20,-2.9,4.24
+2,"Albright et al., 1991 F",2,21,0,7.96
+2,"Albright et al., 1991 F",1,20,-1,8.4
+3,"Albright et al., 1991 M",2,21,-5,9.06
+3,"Albright et al., 1991 M",1,21,-2,7.22
+4,"Amaro-Gahete et al., 2019",2,17,-3.5,8.09
+4,"Amaro-Gahete et al., 2019",1,17,0.38,9.7
+5,"Amin-Shokravi et al., 2011",2,20,-3.5,3.42
+5,"Amin-Shokravi et al., 2011",1,20,1.67,3.42
+6,"Amozadeh et al., 2018",2,13,-21.24,4.24
+6,"Amozadeh et al., 2018",1,13,-0.04,3.9
+7,"Anderssen et al., 1995",2,13,-16.8,5.85
+7,"Anderssen et al., 1995",1,15,-16.7,6.44
+8,"Anshel., 1996",2,15,-5.67,8.35
+8,"Anshel., 1996",1,15,-2.33,6.08
+9,"Aoike et al., 2015",2,14,-14,7.89
+9,"Aoike et al., 2015",1,15,-3.8,6.71
+10,"Araiza et al., 2006",2,15,-5,14.32
+10,"Araiza et al., 2006",1,15,7,11.74
+11,"Arca et al., 2014",2,19,-12,9.49
+11,"Arca et al., 2014",1,14,0,6
+12,"Arija et al., 2017",2,260,-3.59,10.25
+12,"Arija et al., 2017",1,104,0.9,11.31
+13,"Arora et al., 2009",2,10,-8,7
+13,"Arora et al., 2009",1,10,-2,3.94
+13,"Arora et al., 2009",3,10,-8,4.09
+14,"Asikainen et al., 2003 W1",2,46,5.2,9.1
+14,"Asikainen et al., 2003 W1",1,45,4.8,10.59
+15,"Asikainen et al., 2003 W2",2,43,5.4,8.38
+15,"Asikainen et al., 2003 W2",1,45,4.8,10.59
+16,"Asikainen et al., 2003 W3",2,21,1.3,10.25
+16,"Asikainen et al., 2003 W3",1,40,-4.6,9.4
+17,"Asikainen et al., 2003 W4",2,21,2.3,9.06
+17,"Asikainen et al., 2003 W4",1,40,-4.6,9.4
+18,"Asikainen et al., 2003 W5",2,18,-2.7,10.41
+18,"Asikainen et al., 2003 W5",1,40,-4.6,9.4
+19,"Asikainen et al., 2003 W6",2,21,3.7,9.06
+19,"Asikainen et al., 2003 W6",1,40,-4.6,9.4
+20,"Baker et al., 2008",2,39,1,10.75
+20,"Baker et al., 2008",1,40,2,9.49
+21,"Ballesta-Garcia et al., 2020 ",2,18,-5.84,11.92
+21,"Ballesta-Garcia et al., 2020 ",1,18,-7.39,9.82
+22,"Baross et al., 2017",2,12,-4.6,2.52
+22,"Baross et al., 2017",1,12,-0.1,2.72
+23,"Beck et al., 2013",2,13,-12,6.64
+23,"Beck et al., 2013",1,15,0,9.33
+23,"Beck et al., 2013",3,15,-9,7.14
+24,"Bell et al., 2010",2,43,-3,8.59
+24,"Bell et al., 2010",1,45,-9,8.59
+25,"Blumenthal et al., 1991",2,39,-8,6.08
+25,"Blumenthal et al., 1991",1,22,-9,7.38
+26,"Boeno et al., 2020",2,15,-5.6,5.97
+26,"Boeno et al., 2020",1,12,2.8,5.84
+26,"Boeno et al., 2020",3,15,-6.5,7.21
+27,"Bouaziz et al., 2019",2,27,-11.1,6.08
+27,"Bouaziz et al., 2019",1,29,3.7,8.85
+28,"Braith et al., 1994 High",2,14,-8,6.6
+28,"Braith et al., 1994 High",1,11,2,8.44
+29,"Braith et al., 1994 Mod",2,19,-9,6.08
+29,"Braith et al., 1994 Mod",1,11,2,8.44
+30,"Brandon & Elliot-Lloyd., 2006 AA",2,15,-5.7,8.38
+30,"Brandon & Elliot-Lloyd., 2006 AA",1,12,1,9.8
+31,"Brandon & Elliot-Lloyd., 2006 Wh",2,13,-11.3,9.12
+31,"Brandon & Elliot-Lloyd., 2006 Wh",1,12,1,11.65
+32,"Brenner et al., 2019",2,18,-2,9.85
+32,"Brenner et al., 2019",1,15,-9,9.22
+33,"Brixius et al., 2008 Cycle",2,7,-11.6,8.94
+33,"Brixius et al., 2008 Cycle",1,7,-11.8,8.29
+34,"Brixius et al., 2008 Walk",2,7,-1.4,3.37
+34,"Brixius et al., 2008 Walk",1,7,-11.8,8.29
+35,"Brown et al., 2014 Built",2,27,1,9.22
+35,"Brown et al., 2014 Built",1,19,-7,6.32
+36,"Brown et al., 2014 Nature",2,27,-6,7.21
+36,"Brown et al., 2014 Nature",1,19,-7,6.32
+37,"Calders et al., 2011",2,15,-11,9.35
+37,"Calders et al., 2011",1,15,8,9.36
+37,"Calders et al., 2011",4,15,-15,9.78
+38,"Chiang et al., 2019 Walk Ex",2,11,-6,6.71
+38,"Chiang et al., 2019 Walk Ex",1,10,-5,10.21
+39,"Chiang et al., 2019 Walk Step",2,11,-3,9.77
+39,"Chiang et al., 2019 Walk Step",1,10,-5,10.21
+40,"Chung et al., 2017 Single sess",2,16,-6.66,8.35
+40,"Chung et al., 2017 Single sess",1,14,-0.25,8.62
+41,"Coghill et al., 2008",2,38,-4,9.22
+41,"Coghill et al., 2008",1,29,-7,9.06
+42,"Connolly et al., 2017",2,15,-5,4.22
+42,"Connolly et al., 2017",1,15,0,10.48
+42,"Connolly et al., 2017",5,15,-2,9.22
+43,"Cooper et al., 2000",2,48,-2,7.59
+43,"Cooper et al., 2000",1,42,1,5.46
+44,"Dalleck et al., 2009 30-min Ex",2,8,-2.3,11.06
+44,"Dalleck et al., 2009 30-min Ex",1,10,1.9,8.1
+45,"Dalleck et al., 2009 45-min Ex",2,8,-5.1,9.87
+45,"Dalleck et al., 2009 45-min Ex",1,10,1.9,8.1
+46,"Duncan et al., 1991 Aerobic",2,13,0,4.22
+46,"Duncan et al., 1991 Aerobic",1,10,2,4.43
+47,"Duncan et al., 1991 Brisk",2,12,1,6.08
+47,"Duncan et al., 1991 Brisk",1,10,2,4.43
+48,"Duncan et al., 1991 Strollers",2,18,-3,7.17
+48,"Duncan et al., 1991 Strollers",1,10,2,4.43
+49,"Dureja et al., 2014",2,5,-6,4.24
+49,"Dureja et al., 2014",1,5,5,21.84
+50,"Eguchi et al., 2012",2,10,-10.5,13.02
+50,"Eguchi et al., 2012",1,10,-5.8,12.78
+51,"Eriksson et al., 1998",2,7,-13,11.21
+51,"Eriksson et al., 1998",1,7,4,13.41
+52,"Ezema et al., 2014",2,15,-26.07,4.59
+52,"Ezema et al., 2014",1,15,0.4,2.83
+53,"Fairey et al., 2005",2,25,-5.4,8.29
+53,"Fairey et al., 2005",1,28,0.1,12.29
+54,"Faulkner et al., 2014",2,27,-11,8.44
+54,"Faulkner et al., 2014",1,24,-1,9
+55,"Fenkci et al., 2006",2,20,-7.6,10.62
+55,"Fenkci et al., 2006",1,20,-3.6,10.33
+55,"Fenkci et al., 2006",3,20,-8.8,8.81
+56,"Finucane et al., 2010",2,48,-3,9.01
+56,"Finucane et al., 2010",1,48,-2.4,11.55
+57,"Foulds et al., 2014",2,14,-1,7.82
+57,"Foulds et al., 2014",1,10,4,5.06
+58,"Foulds et al., 2014 10min, 1p/w",2,10,1,6.08
+58,"Foulds et al., 2014 10min, 1p/w",1,10,4,5.06
+59,"Foulds et al., 2014 10min, 3p/w",2,10,6,6.65
+59,"Foulds et al., 2014 10min, 3p/w",1,10,4,5.06
+60,"Foulds et al., 2014 30min, 3p/w",2,18,-1,5.46
+60,"Foulds et al., 2014 30min, 3p/w",1,10,4,5.06
+61,"Foulds et al., 2014 60min, 3p/w",2,10,0,4.84
+61,"Foulds et al., 2014 60min, 3p/w",1,10,4,5.06
+62,"Fritz et al., 2013 IGT",2,14,-1,12.17
+62,"Fritz et al., 2013 IGT",1,21,1,7.82
+63,"Fritz et al., 2013 NGT",2,53,2,7.59
+63,"Fritz et al., 2013 NGT",1,75,-2,9.06
+64,"Fritz et al., 2013 T2DM",2,20,0,9.06
+64,"Fritz et al., 2013 T2DM",1,30,-4,9
+65,"Fujie et al., 2014",2,18,-8.5,10.84
+65,"Fujie et al., 2014",1,16,-4,9.67
+66,"Georgiades et al., 2000",2,36,-2.8,5.33
+66,"Georgiades et al., 2000",1,19,-2.4,6.26
+67,"Goldberg et al., 2012",2,15,-2.2,0.97
+67,"Goldberg et al., 2012",1,15,1.5,1.14
+68,"Goldie et al., 2012",2,20,-8.3,14.51
+68,"Goldie et al., 2012",1,20,-1.5,9.06
+69,"Gradidge & Golele., 2018",2,49,-13,10.36
+69,"Gradidge & Golele., 2018",1,66,-4,10.62
+70,"Guimaraes et al., 2010",2,16,-1,6.08
+70,"Guimaraes et al., 2010",1,11,0,5.69
+71,"Hamdorf et al., 1999",2,18,7.5,15.31
+71,"Hamdorf et al., 1999",1,20,-1,14.88
+72,"Hanssen et al., 2017",2,12,0.3,7.99
+72,"Hanssen et al., 2017",1,12,-1.1,6.75
+72,"Hanssen et al., 2017",5,13,-3,5.46
+73,"He et al., 2018",2,22,-9,3.16
+73,"He et al., 2018",1,20,2,3.16
+74,"Headley et al., 2014",2,25,-1.9,10.81
+74,"Headley et al., 2014",1,21,-5.3,15.22
+75,"Headley et al., 2017",2,25,-1.9,10.81
+75,"Headley et al., 2017",1,21,-5.3,15.22
+76,"Hellenius et al., 1993",2,39,-5,12.21
+76,"Hellenius et al., 1993",1,39,-1,7.66
+77,"Herzig et al., 2014",2,33,-7,9.85
+77,"Herzig et al., 2014",1,35,-11,12
+78,"Higashi et al., 1999",2,20,-7.7,4.28
+78,"Higashi et al., 1999",1,7,0.1,5.47
+79,"Hinderliter et al., 2002",2,27,-1,6.23
+79,"Hinderliter et al., 2002",1,19,-5,9.48
+80,"Hofgaard et al., 2019",2,15,-11,7.21
+80,"Hofgaard et al., 2019",1,10,-3,12.04
+81,"Hur et al., 2014 Not Type D",2,12,-5.4,4.88
+81,"Hur et al., 2014 Not Type D",1,10,1.8,8.86
+82,"Hur et al., 2014 Type D",2,12,-4.6,3.99
+82,"Hur et al., 2014 Type D",1,12,-2.1,4.9
+83,"Irving et al., 2008",2,11,-11,10.82
+83,"Irving et al., 2008",1,7,1,7.33
+84,"Jabbour et al., 2017 ",2,12,-7,6.84
+84,"Jabbour et al., 2017 ",1,12,1,2.41
+85,"Kadoglou et al., 2007",2,30,-6.9,11.98
+85,"Kadoglou et al., 2007",1,30,1.22,16.09
+86,"Khalid et al., 2013",2,15,-24,3.54
+86,"Khalid et al., 2013",1,15,-9,4.24
+87,"Kim et al., 2012",2,15,-8.61,3.09
+87,"Kim et al., 2012",1,15,2.15,2.24
+88,"King et al., 1991 Men",2,45,-1,6.65
+88,"King et al., 1991 Men",1,41,-1,7.92
+89,"King et al., 1991 Women",2,29,-6,7.92
+89,"King et al., 1991 Women",1,34,-3,8.68
+90,"Koh et al., 2010",2,15,-2,19.5
+90,"Koh et al., 2010",1,16,-9,18.16
+91,"Krustrup et al., 2009",2,12,-8,8.44
+91,"Krustrup et al., 2009",1,10,-2,5.85
+92,"Krustrup et al., 2010",2,17,-7,5.19
+92,"Krustrup et al., 2010",1,14,-2,4.74
+93,"Kucio et al., 2017",2,15,-5.5,8.37
+93,"Kucio et al., 2017",1,11,-2.4,7.25
+94,"Kurban et al., 2011",2,30,-7,7.21
+94,"Kurban et al., 2011",1,30,-1,9.22
+95,"Lamina et al., 2013",2,162,-16.05,10.03
+95,"Lamina et al., 2013",1,162,2.6,9.03
+96,"Lamina., 2011 Contin",2,112,-13.94,8.02
+96,"Lamina., 2011 Contin",1,105,2.6,8.93
+97,"Lamina., 2011 Interval",2,140,-15.7,10.03
+97,"Lamina., 2011 Interval",1,105,2.6,8.93
+98,"Latosik et al., 2014",2,15,-10.2,10.11
+98,"Latosik et al., 2014",1,10,-6.6,7.22
+99,"Lee et al., 2007",2,91,-15.8,10.42
+99,"Lee et al., 2007",1,93,-8.8,9.25
+100,"Lim et al., 2015",2,15,-0.2,2.6
+100,"Lim et al., 2015",1,15,0.1,1.9
+101,"Lopes et al., 2021",2,26,-11,9.85
+101,"Lopes et al., 2021",1,27,-1,9
+102,"Maeda et al., 2004",2,10,-12,7.92
+102,"Maeda et al., 2004",1,5,4,3.61
+103,"Magalhaes et al., 2019",2,28,-4.7,11.65
+103,"Magalhaes et al., 2019",1,27,-5.9,13.61
+104,"McGavock et al., 2004",1,7,-3,12.04
+104,"McGavock et al., 2004",4,11,3,12.04
+105,"Mora-Rodriguez et al., 2017",2,23,-9,10.32
+105,"Mora-Rodriguez et al., 2017",1,23,2,9.63
+106,"Mouodi et al., 2019",2,98,-5.5,9.52
+106,"Mouodi et al., 2019",1,97,-0.3,11.73
+107,"Murphy et al., 1998 Long Bout",2,12,-4.6,7.3
+107,"Murphy et al., 1998 Long Bout",1,10,-2,8.81
+108,"Murphy et al., 1998 Short Bout",2,12,-7.4,6.62
+108,"Murphy et al., 1998 Short Bout",1,10,-2,8.81
+109,"Murphy et al., 2006",2,21,-5,11.98
+109,"Murphy et al., 2006",1,12,2,7.82
+110,"Murtagh et al., 2005 Multi Bout",2,18,-4,6.96
+110,"Murtagh et al., 2005 Multi Bout",1,11,-3,11.11
+111,"Murtagh et al., 2005 Single Bout",2,19,1,7.33
+111,"Murtagh et al., 2005 Single Bout",1,11,-3,11.11
+112,"Myslivecek et al., 2002 Postmenopause",2,8,-5,8.46
+112,"Myslivecek et al., 2002 Postmenopause",1,8,-3,6.8
+113,"Myslivecek et al., 2002 Premenopause",2,8,-6,8.91
+113,"Myslivecek et al., 2002 Premenopause",1,8,0,11.94
+114,"Nemoto et al., 2007 F",2,43,-3,12.46
+114,"Nemoto et al., 2007 F",1,37,-1,11.51
+115,"Nemoto et al., 2007 M",2,8,-3,3.6
+115,"Nemoto et al., 2007 M",1,9,-2,3.79
+116,"Neumann et al., 2006",2,14,-6,2.41
+116,"Neumann et al., 2006",1,11,-10,3.69
+117,"Nybo et al., 2010",2,8,-8,6.8
+117,"Nybo et al., 2010",1,11,-2,6.08
+117,"Nybo et al., 2010",3,9,-8,11.06
+118,"Oue et al., 2019",2,8,-4,5.38
+118,"Oue et al., 2019",1,9,-2,7.59
+119,"Palmer et al., 1995",2,16,-5,10.21
+119,"Palmer et al., 1995",1,11,-2,8.59
+120,"Pascoalino et al., 2015",2,31,-1,17.58
+120,"Pascoalino et al., 2015",1,9,2,7.22
+121,"Patterson et al., 2017",2,14,-4,7.96
+121,"Patterson et al., 2017",1,8,1,5.46
+122,"Pereira Jorge et al., 2011",2,12,-10,9.72
+122,"Pereira Jorge et al., 2011",1,12,-11.66,10.91
+123,"Pitsavos et al., 2011",2,26,-12.05,8.99
+123,"Pitsavos et al., 2011",1,26,-3,10.35
+124,"Poptempa et al., 1995",2,19,-7.4,10.5
+124,"Poptempa et al., 1995",1,23,-5,14.4
+125,"Pospieszna et al., 2017",2,20,-13,12.63
+125,"Pospieszna et al., 2017",1,19,-5,1.9
+126,"Ramos et al., 2018",2,12,-4.4,5.1
+126,"Ramos et al., 2018",1,12,6.1,3.42
+127,"Ready et al., 1996 3-Day",2,19,-7,11.32
+127,"Ready et al., 1996 3-Day",1,20,-2,9.67
+128,"Ready et al., 1996 5-Day",2,17,-5,13.89
+128,"Ready et al., 1996 5-Day",1,20,-2,9.67
+129,"Ribeiro et al., 2012",2,20,0.9,8.77
+129,"Ribeiro et al., 2012",1,18,3.5,8.56
+130,"Richter et al., 2009",2,10,-6.2,3.48
+130,"Richter et al., 2009",1,14,3,5
+131,"Roberson et al., 2018",2,8,2,8.59
+131,"Roberson et al., 2018",1,7,5,8.85
+132,"Ruangthai & Phoemsapthawee., 2019",2,13,-8,9.49
+132,"Ruangthai & Phoemsapthawee., 2019",1,12,6,12.17
+132,"Ruangthai & Phoemsapthawee., 2019",3,13,-5,14.28
+132,"Ruangthai & Phoemsapthawee., 2019",4,16,-11,9
+133,"Sakai et al., 1998",2,16,-11,7.38
+133,"Sakai et al., 1998",1,13,-5,6.64
+134,"Sandberg et al., 2021",2,23,-22.4,11.17
+134,"Sandberg et al., 2021",1,29,-16.4,14.82
+135,"Saptharishi et al., 2009",2,27,-5.3,4.7
+135,"Saptharishi et al., 2009",1,29,-0.2,6.31
+136,"Saremi et al., 2010",2,9,-2.33,4.3
+136,"Saremi et al., 2010",1,9,-0.67,4.77
+137,"Schroeder et al., 2019",2,17,0,7.84
+137,"Schroeder et al., 2019",1,17,0,7.84
+137,"Schroeder et al., 2019",3,17,-1,7.84
+137,"Schroeder et al., 2019",4,18,0,8.03
+138,"Seo et al., 2010",2,7,2,12.08
+138,"Seo et al., 2010",1,7,-2.1,8.3
+138,"Seo et al., 2010",4,8,-7.7,8.79
+139,"Serwe et al., 2011 Long Bout",2,20,0,6.71
+139,"Serwe et al., 2011 Long Bout",1,20,0,5.69
+140,"Serwe et al., 2011 Short Bout",2,20,-4,7.33
+140,"Serwe et al., 2011 Short Bout",1,20,0,5.69
+141,"Shenoy et al., 2010",2,20,1.5,10.44
+141,"Shenoy et al., 2010",1,20,-3.3,8.54
+142,"Sigla et al., 2007",2,60,-3,14.26
+142,"Sigla et al., 2007",1,63,-4,13
+142,"Sigla et al., 2007",3,64,-5,14.26
+142,"Sigla et al., 2007",4,64,-2,14.26
+143,"Sikiru., 2013",2,162,-15.7,10.07
+143,"Sikiru., 2013",1,161,2.6,14.96
+144,"Simons et al., 2006",2,18,-5,7.22
+144,"Simons et al., 2006",1,21,1,7.22
+144,"Simons et al., 2006",3,21,-9,7.82
+145,"Skow et al., 2021",2,31,0,6.6
+145,"Skow et al., 2021",1,28,3,7.33
+146,"Sohn et al., 2007",2,8,-13.3,2.71
+146,"Sohn et al., 2007",1,10,-3.4,2.41
+147,"Sousa et al., 2013",2,15,-14.8,15.06
+147,"Sousa et al., 2013",1,17,-0.3,10.26
+147,"Sousa et al., 2013",4,16,-24,10.08
+148,"Staffileno et al., 2001",2,9,-6.9,7.03
+148,"Staffileno et al., 2001",1,9,1.2,6.18
+149,"Stefanick et al., 1998 Men",2,47,-0.6,7.08
+149,"Stefanick et al., 1998 Men",1,46,0.3,6.95
+150,"Stefanick et al., 1998 Women",2,43,-1.1,7.8
+150,"Stefanick et al., 1998 Women",1,45,-2.4,8.12
+151,"Stutzman et al., 2010 Normal",2,5,2,9.12
+151,"Stutzman et al., 2010 Normal",1,5,4,4.43
+152,"Stutzman et al., 2010 Overweight",2,6,-2,8.44
+152,"Stutzman et al., 2010 Overweight",1,6,10,4.84
+153,"Suter et al., 1990",2,39,-4.9,10.48
+153,"Suter et al., 1990",1,22,-5.9,8.51
+154,"Swift et al., 2012 12kcal",2,93,-13.1,7.83
+154,"Swift et al., 2012 12kcal",1,89,-1,6.9
+155,"Swift et al., 2012 4kcal",2,140,-8.4,8.03
+155,"Swift et al., 2012 4kcal",1,89,-1,6.9
+156,"Swift et al., 2012 8kcal",2,82,-2.6,8.41
+156,"Swift et al., 2012 8kcal",1,89,-1,6.9
+157,"Tanaka et al., 1997",2,12,-6,10.38
+157,"Tanaka et al., 1997",1,6,-1,5.9
+158,"Tsai et al., 2002 A",2,12,-18,6.96
+158,"Tsai et al., 2002 A",1,11,-8,11.76
+159,"Tsai et al., 2002 B",2,22,-10.8,7.33
+159,"Tsai et al., 2002 B",1,20,-2.8,10.15
+160,"Tsai et al., 2004",2,52,-13.1,7.55
+160,"Tsai et al., 2004",1,50,-3.6,11.68
+161,"Tudor-Locke et al., 2004",2,12,-3,10.75
+161,"Tudor-Locke et al., 2004",1,9,0,9.49
+162,"Tully et al., 2005",2,21,-12,5.46
+162,"Tully et al., 2005",1,10,-4,8.4
+163,"Tully et al., 2007 3-Day",2,44,-4,9.85
+163,"Tully et al., 2007 3-Day",1,20,-4,9.22
+164,"Tully et al., 2007 5-Day",2,42,-6,9.49
+164,"Tully et al., 2007 5-Day",1,20,-4,9.22
+165,"Tully et al., 2011",2,8,-8.25,9.75
+165,"Tully et al., 2011",1,4,4.83,7.11
+166,"Van Craenenbroeck et al., 2015",2,19,-3,12.63
+166,"Van Craenenbroeck et al., 2015",1,21,-9,12.63
+167,"Venojarvi et al., 2013",2,39,-5.7,8.34
+167,"Venojarvi et al., 2013",1,40,-2.9,10.66
+167,"Venojarvi et al., 2013",3,36,-4.1,9.56
+168,"Venturelli et al., 201",2,12,-6,6
+168,"Venturelli et al., 201",1,12,2,4.22
+169,"Wallis et al., 2016",2,22,-8,7.81
+169,"Wallis et al., 2016",1,23,-2,14.51
+170,"Wanderley et al., 2013",2,27,2.5,13.21
+170,"Wanderley et al., 2013",1,31,-5.1,11.34
+170,"Wanderley et al., 2013",3,27,-7.7,8.52
+171,"Watkins et al., 2003",2,14,-7,6.71
+171,"Watkins et al., 2003",1,11,-3,7.96
+172,"Westhoff et al., 2008",2,12,-7,12.01
+172,"Westhoff et al., 2008",1,12,0.5,12.96
+173,"Wing et al., 1998",2,37,-2.4,11.73
+173,"Wing et al., 1998",1,40,-2,7.31
+174,"Wong et al., 2018",2,21,-7,2.91
+174,"Wong et al., 2018",1,20,-1,2.85
+175,"Wong et al., 2019",2,52,-11,0.63
+175,"Wong et al., 2019",1,48,1,0.63
+176,"Yavari et al., 2010",2,35,-10.3,10.22
+176,"Yavari et al., 2010",1,30,-6.7,10.3
+177,"Yavari et al., 2012",2,20,-13,12.26
+177,"Yavari et al., 2012",1,20,-1,10.18
+177,"Yavari et al., 2012",3,20,-11.3,9.3
+177,"Yavari et al., 2012",4,20,-12.8,8.19
+178,"Yoshizama et al., 2008",2,12,-4,6.58
+178,"Yoshizama et al., 2008",1,12,-2,10.38
+178,"Yoshizama et al., 2008",3,11,-5,14.06
+179,"Beltran Valls et al., 2013",3,13,-6,32.93
+179,"Beltran Valls et al., 2013",1,10,-2,25.85
+180,"Castaneda et al., 2002",3,31,-7,12.24
+180,"Castaneda et al., 2002",1,31,7.7,14.11
+181,"Choi et al., 2020",3,15,-5.5,5.1
+181,"Choi et al., 2020",1,12,5.3,6.86
+182,"Conceicao et al., 2013",3,10,-7.6,9.96
+182,"Conceicao et al., 2013",1,10,1.5,5.07
+183,"Dantas et al., 2016",3,13,-5.8,8.05
+183,"Dantas et al., 2016",1,12,5,8.52
+184,"DeVallance et al., 2016 MetS",3,13,-1,6.83
+184,"DeVallance et al., 2016 MetS",1,16,-1,7.59
+185,"DeVallance et al., 2016 non-MetS",3,16,-1,7.38
+185,"DeVallance et al., 2016 non-MetS",1,12,-2,6.4
+186,"Elliot et al., 2002",3,8,-15,12.04
+186,"Elliot et al., 2002",1,7,-1,12.04
+187,"Franklin et al., 2015",3,10,0,6.32
+187,"Franklin et al., 2015",1,8,2,8.16
+188,"Gelecek et al., 2012",3,24,-3.75,6.67
+188,"Gelecek et al., 2012",1,19,0.48,9.03
+189,"Gerage et al., 2013",3,15,-5,4.84
+189,"Gerage et al., 2013",1,14,3,5.46
+190,"Heffernan et al., 2012",3,11,-6,2.53
+190,"Heffernan et al., 2012",1,10,3,2.53
+191,"Hsieh et al., 2018",3,15,-8,8.77
+191,"Hsieh et al., 2018",1,15,-0.9,9.47
+192,"Hu et al., 2009",3,48,-5,9
+192,"Hu et al., 2009",1,21,-5,6.08
+193,"Jaime et al., 2019 ",3,12,-2,10.94
+193,"Jaime et al., 2019 ",1,8,-8,10.94
+194,"Kanegusuku et al., 2011",3,13,-5,11.38
+194,"Kanegusuku et al., 2011",1,11,-9,8.01
+195,"Kawano et al., 2006",3,16,-3,7.59
+195,"Kawano et al., 2006",1,11,1,4.43
+195,"Kawano et al., 2006",4,12,1,4.36
+196,"Lovell et al., 2009",3,12,2,14.7
+196,"Lovell et al., 2009",1,12,2,12.5
+197,"Miyachi et al., 2004",3,14,0,7.08
+197,"Miyachi et al., 2004",1,14,2,6.88
+198,"Okamoto et al., 2006 Concentric",3,10,1.2,4.12
+198,"Okamoto et al., 2006 Concentric",1,9,-2.4,5.77
+199,"Okamoto et al., 2006 Eccentric",3,10,-2.1,5.72
+199,"Okamoto et al., 2006 Eccentric",1,9,-2.4,5.77
+200,"Okamoto et al., 2008 Concentric",3,10,1,5.85
+200,"Okamoto et al., 2008 Concentric",1,10,-3,5.85
+201,"Okamoto et al., 2008 Eccentric",3,10,2,9.99
+201,"Okamoto et al., 2008 Eccentric",1,10,-3,5.85
+202,"Olson et al., 2006",3,15,-15,19.13
+202,"Olson et al., 2006",1,15,-2,7.14
+203,"Park et al., 2011",3,18,-12.3,8.78
+203,"Park et al., 2011",1,22,2.8,9.72
+204,"Plotnikoff et al., 2010",3,27,-2.7,7.78
+204,"Plotnikoff et al., 2010",1,21,-0.3,7.59
+205,"Polito et al, 2020 1 Set",3,14,-1.8,6.75
+205,"Polito et al, 2020 1 Set",1,12,1.8,6.4
+206,"Polito et al, 2020 2 Set",3,12,-7.1,5.24
+206,"Polito et al, 2020 2 Set",1,12,1.8,6.4
+207,"Queiroz et al., 2011 Power",3,15,-8,9.8
+207,"Queiroz et al., 2011 Power",1,11,-9,8.01
+208,"Queiroz et al., 2011 Resistance",3,13,-5,11.38
+208,"Queiroz et al., 2011 Resistance",1,11,-9,8.01
+209,"Stensvold et al., 2010",3,11,-2.8,10.16
+209,"Stensvold et al., 2010",1,11,0.6,16.06
+209,"Stensvold et al., 2010",4,10,-3.5,9.3
+209,"Stensvold et al., 2010",5,11,-5.8,8.77
+210,"Tomeleri et al, 2017",3,22,-7.5,5.24
+210,"Tomeleri et al, 2017",1,23,1.1,8.04
+211,"Van Hoof et al., 1996",3,15,-4,5.06
+211,"Van Hoof et al., 1996",1,15,-4,9.49
+212,"Vincent et al., 2003 High",3,24,-3.2,6.08
+212,"Vincent et al., 2003 High",1,16,-0.9,11.43
+213,"Vincent et al., 2003 Low",3,22,-0.7,10.3
+213,"Vincent et al., 2003 Low",1,16,-0.9,11.43
+214,"Zanetti et al, 2017",3,10,-4,6
+214,"Zanetti et al, 2017",1,11,0,9.86
+215,"Badicci et al., 2012",4,36,-7,12.17
+215,"Badicci et al., 2012",1,34,-3,11.46
+216,"Dos Santos et al., 2014 Eccentric",4,20,-30.85,5.38
+216,"Dos Santos et al., 2014 Eccentric",1,20,1.85,5.72
+217,"Dos Santos et al., 2014 Traditional",4,20,-35.1,5.2
+217,"Dos Santos et al., 2014 Traditional",1,20,1.85,5.72
+218,"Ehlken et al., 2015",4,38,-5,11.11
+218,"Ehlken et al., 2015",1,41,2,10.92
+219,"Figueroa et al., 2011",4,12,-7,9.35
+219,"Figueroa et al., 2011",1,12,0,8.79
+220,"Frih et al., 2017",4,28,-13.4,3.12
+220,"Frih et al., 2017",1,22,1.2,3.61
+221,"Garnaes et al., 2016",4,38,-5.9,15.33
+221,"Garnaes et al., 2016",1,36,0.2,8.03
+222,"Greenwood et al., 2015",4,8,-2.6,10.46
+222,"Greenwood et al., 2015",1,10,-7.2,12.43
+223,"Jeon et al., 2020",4,21,-1,6.71
+223,"Jeon et al., 2020",1,14,-1,7.33
+224,"Jones et al., 2020",4,26,-3,7.33
+224,"Jones et al., 2020",1,24,-1,9.6
+225,"Kagioglou et al., 2021",4,16,-2.2,16.73
+225,"Kagioglou et al., 2021",1,16,2,13.62
+226,"Karelis et al., 2016",4,10,9,12.17
+226,"Karelis et al., 2016",1,10,8,10.32
+227,"Martins et al., 2011",4,32,0.7,12.7
+227,"Martins et al., 2011",1,31,-3.6,14.22
+228,"Masroor et al., 2018",4,15,-19.1,6.12
+228,"Masroor et al., 2018",1,13,-0.4,7.06
+229,"McGuigan et al., 2001",4,11,-8,6
+229,"McGuigan et al., 2001",1,9,-4,9.63
+230,"Miura et al., 2015",4,45,-5,5.7
+230,"Miura et al., 2015",1,47,-0.4,5.83
+231,"Ohkubo et al,. 2001",4,32,-6.2,8.43
+231,"Ohkubo et al,. 2001",1,33,-6.8,8.84
+232,"Okamoto et al., 2007 AT before RT",4,11,-4.7,7.25
+232,"Okamoto et al., 2007 AT before RT",1,11,-1.5,6.19
+233,"Okamoto et al., 2007 RT before AT",4,11,-2.8,8.62
+233,"Okamoto et al., 2007 RT before AT",1,11,-1.5,6.19
+234,"Park & Park, 2017 A",4,25,-1.5,4.04
+234,"Park & Park, 2017 A",1,25,0.3,4.48
+235,"Park & Park, 2017 B",4,21,-0.9,4.36
+235,"Park & Park, 2017 B",1,20,0.1,3.79
+236,"Park et al., 2020",4,10,-2.4,1.75
+236,"Park et al., 2020",1,10,1.6,2.12
+237,"Seo et al., 2011",4,10,-2.1,4.84
+237,"Seo et al., 2011",1,10,0.2,6.08
+238,"Shiotsu et al., 2018 AT before RT",4,15,-1.8,8.51
+238,"Shiotsu et al., 2018 AT before RT",1,10,0,9.81
+239,"Shiotsu et al., 2018 RT before AT",4,15,-5.6,9.15
+239,"Shiotsu et al., 2018 RT before AT",1,10,0,9.81
+240,"Siu et al., 2021",4,181,1.5,9.55
+240,"Siu et al., 2021",1,181,0.8,9.97
+241,"Son et al., 2017",4,10,-12,6.01
+241,"Son et al., 2017",1,10,-2.5,5
+242,"Stewart et al., 2005",4,51,-5.3,8.58
+242,"Stewart et al., 2005",1,53,-4.4,6.38
+243,"Tan et al., 2012",4,15,-9,11.54
+243,"Tan et al., 2012",1,10,2,10.82
+244,"Yen et al., 2019",4,34,-10.2,11.87
+244,"Yen et al., 2019",1,38,-4.7,11.02
+245,"Allen et al., 2017 HIIT",5,20,-2,9.85
+245,"Allen et al., 2017 HIIT",1,14,1,12.65
+246,"Allen et al., 2017 PIST",5,21,-3,7.81
+246,"Allen et al., 2017 PIST",1,14,1,12.65
+247,"Alvarez et al., 2016",5,14,-3,2.34
+247,"Alvarez et al., 2016",1,14,1,2.34
+248,Atan & Karavelioglu 2020,5,19,-6.89,23.63
+248,Atan & Karavelioglu 2020,1,17,2.35,7.11
+249,"Atashak et al., 2021",5,15,-6,2.41
+249,"Atashak et al., 2021",1,15,1,2.41
+250,"Bahmanbeglou et al., 2019 Long dur",5,10,-10,4.24
+250,"Bahmanbeglou et al., 2019 Long dur",1,10,2,6.71
+251,"Bahmanbeglou et al., 2019 Short dur",5,10,-10,5
+251,"Bahmanbeglou et al., 2019 Short dur",1,10,2,6.71
+252,"Blackwell et al., 2020",5,19,-4,10.09
+252,"Blackwell et al., 2020",1,21,4,8.54
+253,"Boutcher et al., 2019",5,20,3,10.21
+253,"Boutcher et al., 2019",1,20,2,13.87
+254,"Cassidy et al., 2015",5,12,-1,2.53
+254,"Cassidy et al., 2015",1,11,-2,3.16
+255,"Cassidy et al., 2019",5,11,1,3
+255,"Cassidy et al., 2019",1,11,3,3
+256,"Chidnok et al., 2020",5,11,1.2,7.08
+256,"Chidnok et al., 2020",1,11,-0.1,8.23
+257,"Chin. et al., 2020 1 p/w",5,35,-6,6.08
+257,"Chin. et al., 2020 1 p/w",1,32.5,1,6.32
+258,"Chin. et al., 2020 2 p/w",5,38.5,-10,7.92
+258,"Chin. et al., 2020 2 p/w",1,32.5,1,6.32
+259,"Chin. et al., 2020 3 p/w",5,35,-9,5.45
+259,"Chin. et al., 2020 3 p/w",1,32.5,1,6.32
+260,"Connolly et al., 2020",5,12,-1,10.48
+260,"Connolly et al., 2020",1,12,3,13.3
+261,"Edwards et al., 2021",5,21,-6.6,6.21
+261,"Edwards et al., 2021",1,20,-1.2,6.6
+262,"Engel et al., 2019",5,10,-8.6,9.18
+262,"Engel et al., 2019",1,10,-1.2,11.24
+263,"Garcia-Suarez et al., 2020",5,9,-1.2,10.24
+263,"Garcia-Suarez et al., 2020",1,10,6.8,4.82
+264,"Ghardashi Afousi et al., 2018",5,14,-16,10.89
+264,"Ghardashi Afousi et al., 2018",1,14,1,10.92
+265,"Gjellesvik et al., 2020",5,36,-3,9.6
+265,"Gjellesvik et al., 2020",1,34,-3,8.59
+266,"Hallsworth et al., 2015",5,11,-1,8.4
+266,"Hallsworth et al., 2015",1,12,0,9.85
+267,"Heydari et al., 2013 A",5,17,-5,1.55
+267,"Heydari et al., 2013 A",1,20,5,2.06
+268,"Heydari et al., 2013 B",5,20,-4.1,6.2
+268,"Heydari et al., 2013 B",1,18,4.3,8.3
+269,"Ho et al., 2019",5,30,0.2,13.95
+269,"Ho et al., 2019",1,30,-1.5,10.48
+270,"Karstoft et al., 2013 ",5,12,-1,2.41
+270,"Karstoft et al., 2013 ",1,8,-1,2.41
+271,"Kiel et al., 2018",5,8,0,10.53
+271,"Kiel et al., 2018",1,10,-1,9.77
+272,"Lee et al., 2020",5,12,2,9.85
+272,"Lee et al., 2020",1,15,-5,6.6
+273,"Madssen et al., 2014",5,24,0.9,9.97
+273,"Madssen et al., 2014",1,25,3,9.02
+274,"May et al., 2018",5,30,-1,1.26
+274,"May et al., 2018",1,30,-1,1.26
+275,"Mohr et al., 2014",5,21,-6,3.26
+275,"Mohr et al., 2014",1,20,0,2.53
+276,"Nytroen et al., 2012",5,24,6,10.48
+276,"Nytroen et al., 2012",1,24,-2,12.17
+277,"O'Driscoll et al., 2018",5,20,-4.8,2.94
+277,"O'Driscoll et al., 2018",1,20,-0.3,3.02
+278,"Renteria et al., 2019",5,9,-6.8,8.28
+278,"Renteria et al., 2019",1,8,0.1,9.34
+279,"Romain et al., 2019",5,38,-3.45,8.98
+279,"Romain et al., 2019",1,28,-3.95,8.85
+280,"Rustad et al., 2012",5,24,1,12.37
+280,"Rustad et al., 2012",1,24,-4,8.85
+281,"Sandstad et al., 2015",5,6,-2,6.6
+281,"Sandstad et al., 2015",1,6,-4,8.68
+282,"Soltani et al., 2019 ID-HIIT",5,10,-8,8.49
+282,"Soltani et al., 2019 ID-HIIT",1,10,2,6.08
+283,"Soltani et al., 2019 SD-HIIT",5,10,-8,7.81
+283,"Soltani et al., 2019 SD-HIIT",1,10,2,6.08
+284,"Streese et al., 2019",5,36,0,8.44
+284,"Streese et al., 2019",1,33,2,9.22
+285,"Tambrus et al., 2018",5,32,-1.06,11.82
+285,"Tambrus et al., 2018",1,34,1.65,13.58
+286,"Tew et al., 2019",5,15,-4,7.33
+286,"Tew et al., 2019",1,15,2,9.06
+287,"Tjonna et al., 2008",5,12,-9,3.16
+287,"Tjonna et al., 2008",1,10,-5,3.61
+288,"Winding et al., 2018",5,11,-1,9.67
+288,"Winding et al., 2018",1,8,4,5.4
+289,"Baddeley-White et al., 2019 Isoball",6,7,-9.4,7.24
+289,"Baddeley-White et al., 2019 Isoball",1,8,2.1,9.12
+290,"Baddeley-White et al., 2019 Zona",6,8,-11,8.51
+290,"Baddeley-White et al., 2019 Zona",1,8,2.1,9.12
+291,"Badrov et al., 2013 A 3/pw",6,12,-6,3.61
+291,"Badrov et al., 2013 A 3/pw",1,9,2,4.22
+292,"Badrov et al., 2013 A 5/pw",6,11,-6,6.6
+292,"Badrov et al., 2013 A 5/pw",1,9,2,4.22
+293,"Badrov et al., 2013 B",6,12,-8,10.12
+293,"Badrov et al., 2013 B",1,12,1,11.11
+294,"Baross et al., 2012",6,10,-10.8,4.84
+294,"Baross et al., 2012",1,10,-0.2,2.95
+295,"Baross et al., 2013",6,10,-11,5.06
+295,"Baross et al., 2013",1,10,-0.1,4.49
+296,"Cahu Rodrigues et al., 2019",6,48,-14,2.41
+296,"Cahu Rodrigues et al., 2019",1,24,-3,3
+297,"Correia et al., 2020",6,50,-6,14.04
+297,"Correia et al., 2020",1,52,-3,14.26
+298,"Decaux et al., 2021",6,10,-15.2,3.96
+298,"Decaux et al., 2021",1,10,0.9,5.4
+299,"Farah et al., 2018 Home",6,18,-4,10.24
+299,"Farah et al., 2018 Home",1,16,-3,12
+300,"Farah et al., 2018 Supervised",6,14,-12,9.49
+300,"Farah et al., 2018 Supervised",1,16,-3,12
+301,"Gordan et al., 2018 Home",6,5,-9.7,5.53
+301,"Gordan et al., 2018 Home",1,9,-2.3,8.3
+302,"Gordan et al., 2018 Lab",6,8,-9.1,7.07
+302,"Gordan et al., 2018 Lab",1,9,-2.3,8.3
+303,"Nemoto et al., 2021 Evening",6,27,-2.6,6.06
+303,"Nemoto et al., 2021 Evening",1,26,-1.9,7.97
+304,"Nemoto et al., 2021 Morning",6,27,-2.9,5.16
+304,"Nemoto et al., 2021 Morning",1,26,-2.1,6.83
+305,"Okamoto et al., 2020",6,11,-17,7.96
+305,"Okamoto et al., 2020",1,11,-2,6.71
+306,"Punia et al., 2019",6,20,-5.75,5.58
+306,"Punia et al., 2019",1,20,3.16,4.96
+307,"Taylor et al., 2003",6,9,-19,5.65
+307,"Taylor et al., 2003",1,8,-8,7.27
+308,"Taylor et al., 2018",6,24,-12.3,3.57
+308,"Taylor et al., 2018",1,24,0.3,3.29
+309,"Wiles et al., 2009",6,11,-5.2,4.24
+309,"Wiles et al., 2009",1,11,2.9,6.33
+310,"Wiles et al., 2016",6,14,-4,4.84
+310,"Wiles et al., 2016",1,14,1,4.22
+311,"Yamagata et al., 2020",6,10,-4.6,3.12
+311,"Yamagata et al., 2020",1,10,-1.6,5.06
+312,"Werner et al., 2021 RT High In",3,10,-1,6.65
+312,"Werner et al., 2021 RT High In",1,10,7,6.08
+313,"Werner et al., 2021 RT High Vo",3,10,1,7.81
+313,"Werner et al., 2021 RT High Vo",1,10,7,6.08
+314,"Islami et al., 2021 GymCT",4,16,-12,11.45
+314,"Islami et al., 2021 GymCT",1,15,-10.6,8.04
+315,"Islami et al., 2021 HomeCT",4,15,-6,7.21
+315,"Islami et al., 2021 HomeCT",1,15,-10.6,8.04
+316,"Dantas et al., 2023 RT A",3,35,-14.32,10.5
+316,"Dantas et al., 2023 RT A",1,35,1.43,11.38
+317,"Dantas et al., 2023 RT B ",3,35,-9.43,10.99
+317,"Dantas et al., 2023 RT B ",1,35,1.43,11.38
+318,"Abrahin et al., 2022",2,10,-11.2,8.9
+318,"Abrahin et al., 2022",1,21,-3.1,7.02
+318,"Abrahin et al., 2022",3,10,-10.8,9.35
+319,"Sardeli et al., 2022",4,23,-3.2,9.3
+319,"Sardeli et al., 2022",1,23,-1.7,14.13
+320,"Lin et al., 2022 High In RT",3,15,-4.4,9.31
+320,"Lin et al., 2022 High In RT",1,12,-6.3,10.64
+321,"Lin et al., 2022 Low In RT",3,13,-2.7,8.7
+321,"Lin et al., 2022 Low In RT",1,12,-6.3,10.64
+322,"Davoodi et al., 2022 ",2,16,-4.75,8.11
+322,"Davoodi et al., 2022 ",1,15,0.26,6.75
+322,"Davoodi et al., 2022 ",5,16,-8.5,7.04
+323,"Li et al., 2022",2,12,-0.8,4.51
+323,"Li et al., 2022",1,12,1.2,5.48
+323,"Li et al., 2022",5,13,-0.8,1.96
+324,"Punia et al., 2022 ",2,30,-5.53,5.77
+324,"Punia et al., 2022 ",1,33,4.79,4.79
+325,"Songcharern et al., 2022",4,14,-4.4,7.86
+325,"Songcharern et al., 2022",1,15,0.8,4.14
+326,"Williamson et al., 2022",2,68,-0.7,7.06
+326,"Williamson et al., 2022",1,69,-1.2,6.45
+327,"Jung et al., 2022",4,14,-7.43,9.72
+327,"Jung et al., 2022",1,14,-0.47,7.89
+328,"Do Amaral et al., 2022",4,12,-3,14.75
+328,"Do Amaral et al., 2022",1,20,-1,13.42
+329,"ODriscoll et al., 2022",6,12,-10.5,3.56
+329,"ODriscoll et al., 2022",1,12,-2,3.93

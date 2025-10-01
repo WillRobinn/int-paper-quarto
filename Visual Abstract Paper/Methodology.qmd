@@ -20,7 +20,7 @@ This review was performed in accordance with the Preferred Reporting Items for S
 
 <font size="4"><strong>Full Supplemental Material</strong></font>
 
-{{< downloadthis bjsports-2023-October-57-20-1317-inline-supplementary-material-1.pdf label = "Original Paper Supplemental Material" >}}
+{{< downloadthis bjsports-2023-October-57-20-1317-inline-supplementary-material-1.pdf label = "Original Paper Supplemental Material" dname="bjsports-2023-October-57-20-1317-inline-supplementary-material-1">}}
 
 </details>
 

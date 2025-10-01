@@ -47,9 +47,13 @@ A interactive infographic that summarises the research and visualises the key fi
 
 :::
 
+## Data Download / Analysis
 
+{{< downloadthis "Data/SystolicMetaInsight.csv" label="Click here to download Systolic Blood Pressure Data ready to be uploaded to MetaInsight" dname="SystolicMetaInsight">}}
 
+{{< downloadthis "Data/DiastolicMetaInsight.csv" label="Click here to download Diastolic Blood Pressure Data ready to be uploaded to MetaInsight" dname="DiastolicMetaInsight">}}
 
+Upload the datasets to <https://crsu.shinyapps.io/MetaInsight/> to perform your own analysis.
 ---
 
 *Use the sidebar navigation to access the homepage and abstracts.*
