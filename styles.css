@@ -192,3 +192,17 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+/* Ensure paragraphs have normal text size */
+.quarto-title-block ~ p,
+main p,
+article p {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.6;
+}
+
+/* Prevent any unintended heading-like styling */
+p {
+  font-size: inherit;
+}
