@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Visual Abstract</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        .container {
+            max-width: 100%;
+        }
+        
+        svg {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        .clickable-area {
+            fill: transparent;
+            stroke: transparent;
+            stroke-width: 4;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .clickable-group:hover .clickable-area {
+            stroke: #0066cc;
+            stroke-width: 5;
+            fill: rgba(0, 102, 204, 0.05);
+        }
+        
+        .clickable-group:active .clickable-area {
+            stroke: #004080;
+            fill: rgba(0, 102, 204, 0.1);
+        }
+        
+        .tooltip-box {
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+        
+        .clickable-group:hover .tooltip-box {
+            opacity: 1;
+        }
+        
+        .tooltip-rect {
+            fill: rgba(30, 30, 30, 0.95);
+            stroke: #0066cc;
+            stroke-width: 4;
+            rx: 8;
+            ry: 8;
+            filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
+        }
+        
+        .tooltip-text {
+            fill: white;
+            font-size: 16px;
+            font-weight: bold;
+            text-anchor: start;
+        }
+        
+        .tooltip-description {
+            fill: #cccccc;
+            font-size: 15px;
+            text-anchor: start;
+        }
+        
+        .tooltip-link {
+            pointer-events: auto;
+        }
+        
+        .tooltip-link text {
+            fill: #66b3ff;
+            font-size: 14px;
+            text-decoration: underline;
+            cursor: pointer;
+            text-anchor: start;
+        }
+        
+        .tooltip-link:hover text {
+            fill: #99ccff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <svg viewBox="0 0 1280 704" preserveAspectRatio="xMidYMid meet">
+            <!-- Embedded image -->
+            <image href="Visual-Abstract_2_70.jpg" width="1280" height="704" />
+            
+            <!-- Study Background (top left) -->
+            <g class="clickable-group">
+                <a href="Background.html" target="_parent">
+                    <rect class="clickable-area" x="2" y="115" width="361" height="315" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="355" y="150" width="480" height="180" />
+                    <text class="tooltip-text" x="415" y="175">Study Background</text>
+                    <text class="tooltip-description" x="415" y="200">Example text</text>
+                    <a href="Background.html" target="_parent" class="tooltip-link">
+                        <text x="415" y="250">→ View full background</text>
+                    </a>
+                </g>
+            </g>
+            
+            <!-- Main Findings (bottom left) -->
+            <g class="clickable-group">
+                <a href="Main%20Findings.html" target="_parent">
+                    <rect class="clickable-area" x="2" y="459" width="369" height="235" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="50" y="530" width="280" height="90" />
+                    <text class="tooltip-text" x="65" y="555">Main Findings</text>
+                    <text class="tooltip-description" x="65" y="575">Example text</text>
+                    <a href="Main%20Findings.html" target="_parent" class="tooltip-link">
+                        <text x="65" y="612">→ Link to main findings</text>
+                    </a>
+                </g>
+            </g>
+            
+            <!-- Exercise Mode and Blood Pressure Reductions (center) -->
+            <g class="clickable-group">
+                <a href="Main%20Findings.html" target="_parent">
+                    <rect class="clickable-area" x="385" y="121" width="557" height="468" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="500" y="280" width="320" height="110" />
+                    <text class="tooltip-text" x="515" y="305">Exercise Mode & BP Reductions</text>
+                    <text class="tooltip-description" x="515" y="342">Example text</text>
+                    <a href="Main%20Findings.html" target="_parent" class="tooltip-link">
+                        <text x="515" y="380">→ Link to main findings</text>
+                    </a>
+                </g>
+            </g>
+            
+            <!-- Discussion and Conclusions (top right) -->
+            <g class="clickable-group">
+                <a href="Discussion.html" target="_parent">
+                    <rect class="clickable-area" x="944" y="310" width="327" height="269" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="870" y="390" width="300" height="110" />
+                    <text class="tooltip-text" x="885" y="415">Discussion & Conclusions</text>
+                    <text class="tooltip-description" x="885" y="435">Example text</text>
+                    <a href="Discussion.html" target="_parent" class="tooltip-link">
+                        <text x="885" y="490">→ Link to discussion</text>
+                    </a>
+                </g>
+            </g>
+            
+            <!-- Reference link (bottom center) -->
+            <g class="clickable-group">
+                <a href="https://bjsm.bmj.com/content/57/20/1317#ref-6" target="_parent">
+                    <rect class="clickable-area" x="386" y="599" width="556" height="74" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="480" y="600" width="320" height="70" />
+                    <text class="tooltip-text" x="495" y="625">Full Citation</text>
+                    <text class="tooltip-description" x="495" y="645">Edwards et al. (2023)</text>
+                    <a href="https://bjsm.bmj.com/content/57/20/1317#ref-6" target="_parent" class="tooltip-link">
+                        <text x="495" y="662">→ View in British Journal of Sports Medicine</text>
+                    </a>
+                </g>
+            </g>
+            
+            <!-- Twitter link 1 (bottom right) -->
+            <g class="clickable-group">
+                <a href="https://x.com/EdwardsJ361" target="_blank">
+                    <rect class="clickable-area" x="1139" y="599" width="140" height="37" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="990" y="590" width="220" height="60" />
+                    <text class="tooltip-text" x="1005" y="615">Click to go to</text>
+                    <text class="tooltip-text" x="1005" y="632"> @EdwardsJ361</text>
+                </g>
+            </g>
+            
+            <!-- Twitter link 2 (bottom right) -->
+            <g class="clickable-group">
+                <a href="https://x.com/JODriscoll9" target="_blank">
+                    <rect class="clickable-area" x="1139" y="638" width="140" height="35" />
+                </a>
+                <g class="tooltip-box">
+                    <rect class="tooltip-rect" x="990" y="635" width="220" height="60" />
+                    <text class="tooltip-text" x="1005" y="660">Click to go to</text>
+                    <text class="tooltip-text" x="1005" y="677">@JODriscoll9</text>
+                </g>
+            </g>
+        </svg>
+    </div>
+</body>
+</html>
